@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Pyromaster Cortilnald",
+  "items": [
+    {
+      "IDKey": "EAE2CFAB0401010101",
+      "name": "Fire Hewn Bow",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AAAF985B01010101",
+      "name": "Flame Born Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DFAC87940201010101",
+      "name": "Magma Forged Breastplate",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B4C8FA3E01010101",
+      "name": "Purge Bringer",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AFB0D38A0201010101",
+      "name": "Pyroblade",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8685C5910201010101",
+      "name": "Searing Edge",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E9B1D4D40301010101",
+      "name": "Smoldering Leather Helm",
+      "color": "#267FFA"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Atrophinius the Fallen",
+  "items": [
+    {
+      "IDKey": "C9DFDFA30201010101",
+      "name": "Bane of the Champions",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D3F0CE7201010101",
+      "name": "Battlemaster's Tarnished Chain",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "88A0EF870301010101",
+      "name": "Death's Edge",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9AE4A3C80601010101",
+      "name": "Faded Pearl of Lost Time",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D4B9BC990301010101",
+      "name": "Forlorn Crystal",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D781E4F50101010101",
+      "name": "Gleaming Fae Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8494D3D40701010101",
+      "name": "Recipe: Incandescent Savvy Runeshard",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "97F2EDB00301010101",
+      "name": "Rune Carved Bow",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C2AEA1CF0601010101",
+      "name": "Short Bow of Malice",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A5D2FEA60301010101",
+      "name": "The Horn of Atrophinius",
+      "color": "#267FFA"
+    }
+  ]
+}

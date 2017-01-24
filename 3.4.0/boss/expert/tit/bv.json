@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Broodmother Venoxa",
+  "items": [
+    {
+      "IDKey": "A8D9EA880301010101",
+      "name": "Ancient Chain Helm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F5F29AF60401010101",
+      "name": "Boxers Lucky Charm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ACC891FE0301010101",
+      "name": "Broodmother's Adrenal Gland",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F58AF2EF0301010101",
+      "name": "Censer of Inevitable Justice",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D1AFDFC50401010101",
+      "name": "Demented Shoulderguards",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E5B1D4D40301010101",
+      "name": "Spider Leather Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BEA686B40201010101",
+      "name": "Tome of Ancient Summons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8FFDE9ED0201010101",
+      "name": "Venoxas's Chitinous Breastpiece",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ADC4FF940401010101",
+      "name": "Venoxas's Heart",
+      "color": "#AD48FB"
+    }
+  ]
+}

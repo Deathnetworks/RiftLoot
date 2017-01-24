@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Caor Ashstone",
+  "items": [
+    {
+      "IDKey": "97948ED40601010101",
+      "name": "Ageless Chain Greaves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E2F3A1DC0501010101",
+      "name": "Ancestral Protector's Legplates",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DBFF9AB40701010101",
+      "name": "Blood Stalkers Blunderbuss",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EB88A1F50101010101",
+      "name": "Ceremonial Burial Blade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F4C8A0CA0201010101",
+      "name": "Deathwalker's Touch",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9D82C9A20501010101",
+      "name": "Devastating Pauldrons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A990AF800201010101",
+      "name": "Recipe: Heroic Brightsurge Vial",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8EFAB67901010101",
+      "name": "Recipe: Night Iron Gauntlets",
+      "color": "#267FFA"
+    }
+  ]
+}

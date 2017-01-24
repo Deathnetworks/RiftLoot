@@ -1,0 +1,136 @@
+{
+  "description": "Select an item",
+  "name": "Lord Greenscale",
+  "items": [
+    {
+      "IDKey": "F8C281BF0701010101",
+      "name": "Amunet's Shimmering Sparkblade",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "ED91C6C40601010101",
+      "name": "Asphodel's Primal Beacon",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "AA93A1BB0401010101",
+      "name": "Bramble Spike Girdle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "93BFADC30401010101",
+      "name": "Censure of the Deep Wilds",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "DABCDBC80201010101",
+      "name": "Corrupted Forest Loop",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "99D8EDA80201010101",
+      "name": "Death Corruption",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D8BCDBC80201010101",
+      "name": "Deathly Flame Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DFA6D93001010101",
+      "name": "Diona's Soothing Wellspring",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "F1EEB5B80601010101",
+      "name": "Dragonplate Boots",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CDABEBE40401010101",
+      "name": "Ethereal Thorn",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "DCD9EAC10701010101",
+      "name": "Fang of the Life Lord",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "DED9EAC10701010101",
+      "name": "Genesis Pylon",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "F3D5FD900101010101",
+      "name": "Glowing Primordial Breeches",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9D85831001010101",
+      "name": "Greenscale Skin Helmet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BF84DAE60601010101",
+      "name": "Heart of Greenscale",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D9AECA820301010101",
+      "name": "Ironbound Life Signet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8FEA86980101010101",
+      "name": "Life Lord's Spaulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DFD9EAC10701010101",
+      "name": "Noxious Maul",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "B7C7E2E60301010101",
+      "name": "Ring of Primal Waters",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EEBEA1830101010101",
+      "name": "Seal of Strangulation",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D9BCDBC80201010101",
+      "name": "Swamp Stalker's Signet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FC9DB81801010101",
+      "name": "Sylvan Greatblade",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "E0C4CBE20101010101",
+      "name": "Thorvin's Unyielding Will",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "DDD9EAC10701010101",
+      "name": "Totem of Overgrowth",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "B683A6D70401010101",
+      "name": "Verdant Archbow",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "98AE948D0601010101",
+      "name": "Viridian Hanguards",
+      "color": "#AD48FB"
+    }
+  ]
+}

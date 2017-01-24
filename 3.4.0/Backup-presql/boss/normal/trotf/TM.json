@@ -1,0 +1,21 @@
+{
+    "description": "Select an item",
+    "name": "Trickster Maelow",
+    "items": [
+        {
+            "IDKey": "DF9EFC9C0201010101",
+            "name" : "Belt of Stolen Rings",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "DD9BA6E30601010101",
+            "name":"Faecraft Gauntlets",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "F3A4ECE10401010101",
+            "name":"Trickster's Cinch",
+            "color": "#267FFA"
+        }
+    ]
+}

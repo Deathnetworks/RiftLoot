@@ -1,0 +1,21 @@
+{
+    "description": "Select an item",
+    "name": "Fae Lord Twyl",
+    "items": [
+        {
+            "IDKey": "E2D283CD0301010101",
+            "name" : "Fae-Lord's Justice",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "C2ECCBBA0101010101",
+            "name":"Faestrike Longbow",
+            "color": "#267FFA" 
+        },
+        {
+            "IDKey": "BEB3E0DA0101010101",
+            "name":"Twyl's Icy Slippers",
+            "color": "#267FFA"
+        }
+    ]
+}

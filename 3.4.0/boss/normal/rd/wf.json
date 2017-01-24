@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Warden Falidor",
+  "items": [
+    {
+      "IDKey": "EDAFF1B60501010101",
+      "name": "Final Justice",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A2B3C73A01010101",
+      "name": "High Warden Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DCA3A7940301010101",
+      "name": "High Warden Buckler",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DEC8A1FB0101010101",
+      "name": "High Warden Pauldrons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9AF8C0B20601010101",
+      "name": "High Warden Protector",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E4ADAFE20701010101",
+      "name": "High Warden Spaulders",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EDF2A4920401010101",
+      "name": "High Warden Vambraces",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8DCBA5E50601010101",
+      "name": "Stanig's Flanged Mace",
+      "color": ""
+    },
+    {
+      "IDKey": "D1FDFFAE0101010101",
+      "name": "Stone Guard Pike",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DF88DDBC0301010101",
+      "name": "The Word of Stone",
+      "color": "#267FFA"
+    }
+  ]
+}

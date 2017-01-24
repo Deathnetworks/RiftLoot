@@ -1,0 +1,31 @@
+{
+  "description": "Select an item",
+  "name": "The Gedlo Council",
+  "items": [
+    {
+      "IDKey": "BB99AFC10201010101",
+      "name": "Gerbik's Blackflame",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "98A686D30101010101",
+      "name": "Nuggo's Medicine Stick",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A9F5B3910701010101",
+      "name": "Nuggo's Purifying Helm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A081F4E10101010101",
+      "name": "Swedge's Bloodied Stompers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "84F6DAB80601010101",
+      "name": "Swedge's Unyielding Fist",
+      "color": "#AD48FB"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+﻿#rcTooltip { 
+	position: absolute;
+	left: 480px; 
+	top: 480px; 
+	display: block; 
+	width: auto; 
+	float: left; 
+	clear: none; 
+	font: 1em Arial, Helvetica, sans-serif;
+	max-width: 343px;
+	min-width: 300px;
+	padding: 0; 
+	margin: 0; 
+	z-index: 1000;
+}
+
+#rcItemTip,
+#rcRecipeTip {
+	text-decoration: none;
+}
+#item-table {
+	font: .9em Arial, Helvetica, sans-serif;
+	border-collapse: collapse; 
+	color: white; 
+	border: 0 black none;
+	font-size: .9em;
+	text-align: left;
+	/*width: 100%;*/
+	max-width: 343px;
+	min-width: 300px;
+}
+
+#item-table tr,
+#item-table td {
+	border: 0 black none;
+	color: white !important;
+}
+
+
+#item-ul, 
+#item-ll, 
+#item-ur, 
+#item-lr, 
+#item-center,
+#item-top, 
+#item-bottom, 
+#item-left, 
+#item-right {
+	background-image: url('images/tooltip.png'); 
+	background-repeat: no-repeat;
+	border: 0 black none;
+}
+
+#item-ul, 
+#item-ll, 
+#item-left {
+	width: 15px;
+}
+
+#item-ur,
+#item-lr,
+#item-right {
+	width: 25px;
+}
+
+#item-ul { background-position: left 0px; }
+#item-top { background-position: -12px 0px; }
+#item-ur { background-position: right 0px; }
+#item-left { background-position: left center; }
+#item-center { background-position: center -18px; }
+#item-right { background-position: right -18px; }
+#item-ll { background-position: left bottom; }
+#item-bottom { background-position: -12px bottom; }
+#item-lr { background-position: right bottom; }
+
+#recipeName { color: #fc3; font-size: 1.3em; }
+#item-details { margin-top: 10px; }
+#itemValue { text-align: right; }
+#item-info { clear: both; }
+#itemIcon { 
+	align: left;
+	vertical-align: middle; 
+}
+#item-ingredients {
+	margin-left: 2em;
+}
+#itemName { 
+	font-size: 1.3em; 
+}
+
+.item-div {
+	background-image: url('images/divider.png'); 
+	background-repeat: no-repeat;
+	background-position: center center;
+	border: 0 black none;
+	padding-top: 2px; 
+ 	height: 6px;
+	padding-bottom: 2px;
+ 	clear: both;
+}
+
+.rarity0, .rarity-Trash { color: #888 !important }
+.rarity1, .rarity-Common { color: #fbfbfb !important }
+.rarity2, .rarity-Uncommon { color: #0c0 !important }
+.rarity3, .rarity-Rare { color: #267ffa !important }
+.rarity4, .rarity-Epic { color: #ad48fb !important }
+.rarity5, .rarity-Quest { color: yellow !important }
+.rarity6, .rarity-Relic { color: #ff8000 !important }
+
+#item-icon {
+	vertical-align: top; 
+	width: 26px;
+}
+#item-icon-outer {
+	padding: 3px 4px 4px 3px;
+	height: 38px;
+	width: 39px;
+	margin: 4px;
+	overflow: hidden;
+}
+#item-icon-inner {
+	background-color: black;
+}
+.itemIconRarity0 b { background: url("images/rcbordertrash.png") no-repeat scroll 0 0 transparent; }
+.itemIconRarity1 b { background: url("images/rcbordercommon.png") no-repeat scroll 0 0 transparent; }
+.itemIconRarity2 b { background: url("images/rcborderuncommon.png") no-repeat scroll 0 0 transparent; }
+.itemIconRarity3 b { background: url("images/rcborderrare.png") no-repeat scroll 0 0 transparent; }
+.itemIconRarity4 b { background: url("images/rcborderepic.png") no-repeat scroll 0 0 transparent; }
+.itemIconRarity5 b { background: url("images/rcborderquest.png") no-repeat scroll 0 0 transparent; }
+.itemIconRarity6 b { background: url("images/rcborderrelic.png") no-repeat scroll 0 0 transparent; }
+.itemIcon b { background: url("images/rcborders.png") no-repeat scroll 0 0 transparent; }
+.item-large { font-size: 1.2em; }
+.ingIcon { 
+	width: 16px;
+	height: 15px;
+}
+
+.itemIcon {
+	width: 32px;
+	height: 31px;
+}
+
+.itemAug {
+	color: #0c0 !important
+}
+#essenceSlots {
+	clear: both;
+}
+
+#valueSilver,
+#valueGold,
+#valuePlatinum {
+	background-repeat: no-repeat;
+	background-position: right center;
+	padding-right: 21px;
+	text-align: right;
+	padding-left: 3px;
+	float: right;
+}
+
+#valueSilver {
+	background-image: url("images/money/Silver.png");
+}
+
+#valueGold {
+	background-image: url("images/money/Gold.png");
+}
+
+#valuePlatinum {
+	background-image: url("images/money/Platinum.png");
+}
+
+#item-AccountBound {
+	color: #fff074 !important;
+}
+
+#item-slot { float: left; }
+#item-type { float: right; }
+
+.skillHigh { color: #ff8040; }
+.skillMedium { color:#ff0; }
+.skillLow { color:#0c0; }
+.skillTrivial { color:#888; }
+
+#item-flavortext { color: #fbc864; }
+
+.recipeTable
+{
+  border-collapse: collapse;
+}
+.recipeHeaderRow
+{
+}
+.recipeMainRow
+{
+	background-color: #202040;
+	min-height: 40px;
+}
+.recipeAltRow
+{
+	background-color: #101020;
+	min-height: 40px;
+}
+
+.iconImg 
+{ 
+	border: 0px black none !important;
+	vertical-align: middle;
+	height: 36px;
+	width: 37px;
+	position: absolute;
+	left: 1px;
+	top: 1px;
+	vertical-align: middle;
+}
+
+.recipeIconLink {
+    float: left;
+    height: 38px;
+    margin: 4px;
+    overflow: hidden;
+    position: relative;
+    text-decoration: none !important;
+    width: 39px;
+}
+.recipeIcon {
+	position: relative;
+}
+
+.recipeIconRarity0 b { background: url("images/rcbordertrash.png") no-repeat scroll 0 0 transparent; }
+.recipeIconRarity1 b { background: url("images/rcbordercommon.png") no-repeat scroll 0 0 transparent; }
+.recipeIconRarity2 b { background: url("images/rcborderuncommon.png") no-repeat scroll 0 0 transparent; }
+.recipeIconRarity3 b { background: url("images/rcborderrare.png") no-repeat scroll 0 0 transparent; }
+.recipeIconRarity4 b { background: url("images/rcborderepic.png") no-repeat scroll 0 0 transparent; }
+.recipeIconRarity5 b { background: url("images/rcborderquest.png") no-repeat scroll 0 0 transparent; }
+.recipeIconRarity6 b { background: url("images/rcborderrelic.png") no-repeat scroll 0 0 transparent; }
+.recipeIcon b { background: url("images/rcborders.png") no-repeat scroll 0 0 transparent; }
+
+.recipeIconRarity0 b,
+.recipeIconRarity1 b,
+.recipeIconRarity2 b,
+.recipeIconRarity3 b,
+.recipeIconRarity4 b,
+.recipeIconRarity5 b, 
+.recipeIconRarity6 b,
+.recipeIcon b
+{
+    display: block;
+    height: 38px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 43px;
+    z-index: 1;
+}
+.recipeIconRarity0 b:hover,
+.recipeIconRarity1 b:hover,
+.recipeIconRarity2 b:hover,
+.recipeIconRarity3 b:hover,
+.recipeIconRarity4 b:hover,
+.recipeIconRarity5 b,:hover 
+.recipeIconRarity6 b:hover,
+.recipeIcon b:hover {
+	background-position: left bottom;
+}
+.recipeIconQuantity {
+	position: absolute;
+	font-weight: bold;
+	color: white;
+	font-size: 14px;
+	left: 2px;
+}
+.recipeIconQuantityOutline {
+	position: absolute;
+	font-weight: bold;
+	color: black;
+	font-size: 14px;
+	left: 3px;
+	top: 1px;
+}
+.recipeName { line-height: 3.23em; }
+.recipeIngredients { }
+
+.recipeLevel { text-align: center; }
+.recipeCost { text-align: center; }
+.recipeValue { text-align: center; }
+
+

@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Ravalos",
+  "items": [
+    {
+      "IDKey": "C8DFDC3201010101",
+      "name": "Basilisk Eye Totem",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E4B1D4D40301010101",
+      "name": "Basilisk Skin Boots",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E28BDB9F0101010101",
+      "name": "Beast Crusher",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FA8BE38B0301010101",
+      "name": "Dagger Teeth Necklace ",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "999E88920301010101",
+      "name": "Death's Reach",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A7AFCAA30501010101",
+      "name": "Undying Breeches",
+      "color": "#267FFA"
+    }
+  ]
+}

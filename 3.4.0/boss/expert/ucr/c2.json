@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Caduceus",
+  "items": [
+    {
+      "IDKey": "8AC1FFCC0701010101",
+      "name": "Caduceus' Crystalline Helmet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A3B9CA840201010101",
+      "name": "Corrupted Soul",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BDDDF0960401010101",
+      "name": "Cowl of Dying Embers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C18CF0BE0501010101",
+      "name": "Devastating Quake Pauldrons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9EFAC9E00501010101",
+      "name": "Fracture",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FBBC95820501010101",
+      "name": "Shadow Torrent Shoulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DEDDCC850701010101",
+      "name": "Tectonic Destroyer",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "94C7DAE40501010101",
+      "name": "Tremor",
+      "color": "#AD48FB"
+    }
+  ]
+}

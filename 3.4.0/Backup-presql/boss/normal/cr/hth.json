@@ -1,0 +1,21 @@
+{
+  "description": "Select an item",
+  "name": "High Thane Hergen",
+  "items": [
+    {
+      "IDKey": "E8E99B900301010101",
+      "name": "Hergen's Backscratcher",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9AC986CA0201010101",
+      "name": "Hergen's Bloodtreads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E79ADC930101010101",
+      "name": "Hergen's Trusty Chestguard",
+      "color": "#267FFA"
+    }
+  ]
+}

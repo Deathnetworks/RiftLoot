@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Shadehorror Phantasm",
+  "items": [
+    {
+      "IDKey": "E0DBC79C0701010101",
+      "name": "Belt of a Sunless Sky",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C9F7BEAB0701010101",
+      "name": "Dark Step Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D1FFABEE0701010101",
+      "name": "Endless Blade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FBC78DE30201010101",
+      "name": "Ring of the Void",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C0F2CB930701010101",
+      "name": "Shadow Cloth Robes",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A895DE990101010101",
+      "name": "Soul Etched Leggings",
+      "color": "#267FFA"
+    }
+  ]
+}

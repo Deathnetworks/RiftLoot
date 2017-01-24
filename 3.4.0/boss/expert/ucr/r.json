@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Rodiafel",
+  "items": [
+    {
+      "IDKey": "F2E9C88A0401010101",
+      "name": "Core forged Buckle",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FC9DCB5E01010101",
+      "name": "Emberstitch Breeches",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8CEA8CFB0501010101",
+      "name": "Gloves of Tempered Magma",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D983CDB00201010101",
+      "name": "Hardened Obsidian Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D7F2F1920101010101",
+      "name": "Lavabound Coil",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BFC1DD9A0601010101",
+      "name": "Molten Sabatons",
+      "color": "#267FFA"
+    }
+  ]
+}

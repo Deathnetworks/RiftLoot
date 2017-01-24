@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Emberlord Ereetu",
+  "items": [
+    {
+      "IDKey": "95948ED40601010101",
+      "name": "Burning Chain Links",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DFF483D30301010101",
+      "name": "Crystallized Flames",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D4A7863B01010101",
+      "name": "Emberlord's Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "92E4E1920301010101",
+      "name": "Ethian Oscillating Hydraulic Staff",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FFB4EC990501010101",
+      "name": "Fire Eye",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "87E485B80301010101",
+      "name": "Fire Silk Robes",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A8E8DEA30101010101",
+      "name": "Inferno's Bane",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8DCCB0830101010101",
+      "name": "Magma Rod",
+      "color": "#267FFA"
+    }
+  ]
+}

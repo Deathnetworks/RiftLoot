@@ -1,0 +1,86 @@
+{
+  "description": "Select an item",
+  "name": "Oracle Aleria",
+  "items": [
+    {
+      "IDKey": "8CCCF68A0601010101",
+      "name": "Aleria's Lycanthropic Moccasins",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ADAF874D01010101",
+      "name": "Bones of the Primal Serpent",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "95C6CF9C0301010101",
+      "name": "Everliving Vine Necklace",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8FE796D50601010101",
+      "name": "Fate's Binding",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AFAF874D01010101",
+      "name": "Gem of the Greenseer",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C2FEE7A10501010101",
+      "name": "Helm of Howling Rage",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A9DFE15901010101",
+      "name": "Oracle's Painblade",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E4D2AFAA0601010101",
+      "name": "Primal Hide Gloves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B190DE1201010101",
+      "name": "Primordial Edict",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AEAF874D01010101",
+      "name": "Scarab of Living Mana",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AADFE15901010101",
+      "name": "Stiletto of the Serpent",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ACAF874D01010101",
+      "name": "Stout Oak Gorget",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B88CEC930501010101",
+      "name": "The Oracle's Eye",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C4A08BE40601010101",
+      "name": "The Oracle's Ripped Garments",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8487A5EB0101010101",
+      "name": "Werewolf Fur Lined Belt",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B6F1ECD70101010101",
+      "name": "Werewolf Hide Shoulderpads",
+      "color": "#AD48FB"
+    }
+  ]
+}

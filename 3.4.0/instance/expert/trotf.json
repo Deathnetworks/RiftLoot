@@ -1,0 +1,30 @@
+{
+    "description" : "Select a boss",
+    "name": "The Realm of the Fae (15-22)",
+    "items": [
+        {
+            "selector": "expert-trotf-TM",
+            "name" : "Trickster Maelow"
+        },
+        {
+            "selector": "expert-trotf-L",
+            "name" : "Luggodhan"
+        },
+        {
+            "selector": "expert-trotf-GAO",
+            "name" : "Grand Apiarist Orban"
+        },
+        {
+            "selector": "expert-trotf-BA",
+            "name" : "Battlemaster Atrophinius"
+        },
+        {
+            "selector": "expert-trotf-CW",
+            "name" : "Chillblains Winterfrost"
+        },
+        {
+            "selector": "expert-trotf-FLT",
+            "name" : "Fae Lord Twyl"
+        }
+    ]
+}

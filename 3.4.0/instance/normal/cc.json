@@ -1,0 +1,20 @@
+{
+    "description": "Select a boss",
+    "name": "Charmer's Caldera (48-50)",
+    "items": [
+        {
+            "selector": "normal-cc-s",
+            "name" : "Smouldaron"
+        },{
+            "selector": "normal-cc-c",
+            "name" : "Cyclorax"
+        },{
+            "selector": "normal-cc-rd",
+            "name" : "Ryka Dharvos"
+        },{
+            "selector": "normal-cc-cts",
+            "name" : "Caelia the Stormtouched"
+        }
+    ]
+
+}

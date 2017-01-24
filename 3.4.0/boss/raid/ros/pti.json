@@ -1,0 +1,96 @@
+{
+  "description": "Select an item",
+  "name": "Plutonus the Immortal",
+  "items": [
+    {
+      "IDKey": "CBB7FBDB0701010101",
+      "name": "Architect's Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B486B8BF0501010101",
+      "name": "Architect's Sash",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C8B7FBDB0701010101",
+      "name": "Band of Dark Plans",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C9B7FBDB0701010101",
+      "name": "Band of the Fallen",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CCF1DCEE0201010101",
+      "name": "Belt of Understanding",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EF83BADC0701010101",
+      "name": "Belt of the Dark Immortal",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C7B4C8AC0201010101",
+      "name": "Bulwark of the Immortal",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FEA494870201010101",
+      "name": "Dark Architect's Mantle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A9FC908E0301010101",
+      "name": "Gloves of Infinite Sorrow",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C6D5A7D40301010101",
+      "name": "Immortal's Belt of Deflection",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C7B7FBDB0701010101",
+      "name": "Immortal's Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "83ACB03F01010101",
+      "name": "Legplates of the Immortal",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A1BBC9D50101010101",
+      "name": "Plutonus' Leggings of Endless Energy",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CAB7FBDB0701010101",
+      "name": "Ring of Dark Tears",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CCFDA1940501010101",
+      "name": "Sash of Lightning",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E29F8E960401010101",
+      "name": "Soul Cipher Carapace",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8BF3C3C50201010101",
+      "name": "Strap of the Architect",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "92E1C2E80401010101",
+      "name": "Void Lightning Footguards",
+      "color": "#AD48FB"
+    }
+  ]
+}

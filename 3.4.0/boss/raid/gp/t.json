@@ -1,0 +1,86 @@
+{
+  "description": "Select an item",
+  "name": "Thalguur",
+  "items": [
+    {
+      "IDKey": "88E4DBAB0501010101",
+      "name": "Aegis of the Earthlords",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D9FB9CA50401010101",
+      "name": "Crown of the Golden Empire",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D5AEF80C01010101",
+      "name": "Crystal Gloves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D2B89E1F01010101",
+      "name": "Earthshadow Gloves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E994FCC50501010101",
+      "name": "Fatecrusher",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "87969C910601010101",
+      "name": "Gilded Axe of Legend",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "85A5EAD60601010101",
+      "name": "Golden Battleplate of the Emperor",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "969CE6810201010101",
+      "name": "Golden Bauble",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ABBB94EB0401010101",
+      "name": "Golden Elemental Boots",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DA9DE7DA0601010101",
+      "name": "Impressive Shovel",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E0FBEBDB0301010101",
+      "name": "Intimidating Shovel",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AFF7BDFB0601010101",
+      "name": "Lodestone Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8186F4BC0501010101",
+      "name": "Shining Amethyst Necklace",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A88EAAF50601010101",
+      "name": "Shining Greaves of Destruction",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CCBED2EC0401010101",
+      "name": "Spiked Platinum Cord",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B5809E810201010101",
+      "name": "Wand of Excess",
+      "color": "#AD48FB"
+    }
+  ]
+}

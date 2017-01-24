@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Akylios",
+  "items": [
+    {
+      "IDKey": "B5B19F810601010101",
+      "name": "Amulet of the Crab",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A4F3CCDE0301010101",
+      "name": "Band of Final Breath",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9CD9D59D0501010101",
+      "name": "Captured Tsunami",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "C4B2FCB70101010101",
+      "name": "Dark Coral Loop",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CDFBB4E60101010101",
+      "name": "Kraken's Spine",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "99D9D59D0501010101",
+      "name": "Scepter of the Mad God",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "9ED9D59D0501010101",
+      "name": "Soliton Blade",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "93D9D59D0501010101",
+      "name": "Tidal Force Trucheon",
+      "color": "#FF8000"
+    }
+  ]
+}

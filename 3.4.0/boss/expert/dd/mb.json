@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Michael Bringhurst",
+  "items": [
+    {
+      "IDKey": "A1B985D30601010101",
+      "name": "Bringhurst's Belt Buckle",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CECBB3A40301010101",
+      "name": "Crown of Lunar Madness",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8C9AB2ED0301010101",
+      "name": "Fanged Warhelm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ABD39DA30201010101",
+      "name": "Flamewrought Ruby",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CF8FBC3401010101",
+      "name": "Hood of Bloodthirst",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "91C6F5B80301010101",
+      "name": "Runed Moonlight Cowl",
+      "color": "#267FFA"
+    }
+  ]
+}

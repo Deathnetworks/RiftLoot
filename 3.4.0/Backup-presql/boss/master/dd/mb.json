@@ -1,0 +1,31 @@
+{
+  "description": "Select an item",
+  "name": "Michael Bringhurst",
+  "items": [
+    {
+      "IDKey": "C1FBD8C20501010101",
+      "name": "Amulet of the Harvest Moon",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AB84E23101010101",
+      "name": "Girdle of Butchery",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B0EEA3840201010101",
+      "name": "Helm of Lunar Calling",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E9ACCE2401010101",
+      "name": "Howling Moonlight Choker",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B78DC0900301010101",
+      "name": "Lunar Conqueror's Hood",
+      "color": "#AD48FB"
+    }
+  ]
+}

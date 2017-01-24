@@ -1,0 +1,29 @@
+{
+    "description": "Select a boss",
+    "name": "The Deepstrike Mines",
+    "items": [
+        {
+            "selector": "expert-tdm-om",
+            "name" : "Overseer Markus"
+        },{
+            "selector": "expert-tdm-gk",
+            "name" : "Gregori Krezlav"
+        },{
+            "selector": "expert-tdm-btt",
+            "name" : "Bonehew the Thunderer"
+        },{
+            "selector": "expert-tdm-gk2",
+            "name" : "Gatekeeper Kaleida"
+        },{
+            "selector": "expert-tdm-d",
+            "name" : "Dichrom"
+        },{
+            "selector": "expert-tdm-ca",
+            "name" : "Caretaker Arcanis"
+        },{
+            "selector": "expert-tdm-p",
+            "name" : "Plutonus"
+        }
+    ]
+
+}

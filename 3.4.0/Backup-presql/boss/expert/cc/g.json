@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Gronik",
+  "items": [
+    {
+      "IDKey": "E788B1D10701010101",
+      "name": "Band of Petrified Stone",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A3B7F0C90701010101",
+      "name": "Gronik's Stoneloop",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DE85F40F01010101",
+      "name": "Petrified Boneshank",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A9D79EF40601010101",
+      "name": "Recipe: Conditioned Leather Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A9C099F50101010101",
+      "name": "Signet of Cyclonic Destruction",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EBA5F8D70301010101",
+      "name": "Static Charged Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F4BEA5D00701010101",
+      "name": "Stone Claw Crusader",
+      "color": "#267FFA"
+    }
+  ]
+}

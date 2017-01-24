@@ -1,0 +1,283 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Rift Loot</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no;" />
+    <meta charset="utf-8">
+    <meta charset="utf-8" />
+    <link href="jquery.mobile-1.0.min.css" rel="stylesheet" type="text/css" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="items.css" rel="stylesheet" type="text/css" />
+    <script src="jquery-latest.js" type="text/javascript"></script>
+    <script src="jquery.mobile-1.0.min.js" type="text/javascript"></script>
+    <script type="text/javascript" charset="utf-8" src="appmobi-vsdoc.js"></script>
+    <script src="tinybox.js" type="text/javascript"></script>
+    <script type="text/javascript" charset="utf-8" src="http://localhost:58888/_appMobi/appmobi.js"></script>
+    <script type="text/javascript" charset="utf-8" src="http://localhost:58888/_appMobi/xhr.js"></script>
+</head>
+<body>
+    <div data-role="page" id="page1">
+        <div data-role="header">
+            <h1>
+                Rift Loot Table</h1>
+        </div>
+        <div data-role="content">
+            <p>
+                Select an instance below:</p>
+            <div data-role="collapsible-set" data-theme="c" data-content-theme="d">
+                <div data-role="collapsible">
+                    <h3>
+                        Normal Instances</h3>
+                    <ul data-role="listview" data-inset="true">
+                        <li><a href="#instance-selection?selection=normal-troftf">The Realm of the Fae (15-22)</a></li>
+                        <li><a href="#instance-selection?selection=normal-tit">The Iron Tomb (17-24)</a></li>
+                        <li><a href="#instance-selection?selection=normal-dd">Darkening Deeps (21-28)</a></li>
+                        <li><a href="#instance-selection?selection=normal-tdm">The Deepstrike Mines (24-31)</a></li>
+                        <li><a href="#instance-selection?selection=normal-fc">Foul Cascade (28-37)</a></li>
+                        <li><a href="#instance-selection?selection=normal-kb">King's Breach (33-42)</a></li>
+                        <li><a href="#instance-selection?selection=normal-rd">Runic Descent (38-47)</a></li>
+                        <li><a href="#instance-selection?selection=normal-tfolh">The Fall of Lantern Hook (42-47)</a></li>
+                        <li><a href="#instance-selection?selection=normal-ap">Abyssal Precipice (48-50)</a></li>
+                        <li><a href="#instance-selection?selection=normal-cr">Caduceus Rise (48-50)</a></li>
+                        <li><a href="#instance-selection?selection=normal-cc">Charmer's Caldera (48-50)</a></li>
+                    </ul>
+                </div>
+                <div data-role="collapsible">
+                    <h3>
+                        Expert Instances</h3>
+                    <ul data-role="listview" data-inset="true">
+                        <li><a href="#instance-selection?selection=expert-tit">The Iron Tomb</a></li>
+                        <li><a href="#instance-selection?selection=expert-tfolh">The Fall of Lantern Hook</a></li>
+                        <li><a href="#instance-selection?selection=expert-trotf">The Realm of the Fae</a></li>
+                        <li><a href="#instance-selection?selection=expert-fc">Foul Cascade</a></li>
+                        <li><a href="#instance-selection?selection=expert-ap">Abyssal Precipice</a></li>
+                        <li><a href="#instance-selection?selection=expert-cr">Caduceus Rise</a></li>
+                        <li><a href="#instance-selection?selection=expert-ucr">Upper Caduceus Rise</a></li>
+                        <li><a href="#instance-selection?selection=expert-cc">Charmer's Caldera</a></li>
+                        <li><a href="#instance-selection?selection=expert-dd">Darkening Deeps</a></li>
+                        <li><a href="#instance-selection?selection=expert-tdm">The Deepstrike Mines</a></li>
+                        <li><a href="#instance-selection?selection=expert-rd">Runic Descent</a></li>
+                    </ul>
+                </div>
+                <div data-role="collapsible">
+                    <h3>
+                        Master Instances</h3>
+                    <ul data-role="listview" data-inset="true">
+                        <li><a href="#instance-selection?selection=master-dd">Darkening Deeps</a></li>
+                    </ul>
+                </div>
+                <div data-role="collapsible">
+                    <h3>
+                        Raids</h3>
+                    <ul data-role="listview" data-inset="true">
+                        <li><a href="#instance-selection?selection=raid-dh">Drowned Halls</a></li>
+                        <li><a href="#instance-selection?selection=raid-gp">Guilded Prophecy</a></li>
+                        <li><a href="#instance-selection?selection=raid-gb">Greenscale's Blight</a></li>
+                        <li><a href="#instance-selection?selection=raid-hf">Hammerknell Fortress</a></li>
+                        <li><a href="#instance-selection?selection=raid-rotp">Rise of the Phoenix</a></li>
+                        <li><a href="#instance-selection?selection=raid-ros">River of Souls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="instance-selection" data-add-back-btn="true" data-role="page">
+        <div data-role="header">
+            <h1>
+            </h1>
+        </div>
+        <div data-role="content">
+        </div>
+    </div>
+    <div id="boss-selection" data-add-back-btn="true" data-role="page">
+        <div data-role="header">
+            <h1>
+            </h1>
+        </div>
+        <div data-role="content">
+        </div>
+    </div>
+    <div id="item-selection" data-add-back-btn="true" data-role="page">
+        <div data-role="header">
+            <h1>
+            </h1>
+        </div>
+        <div data-role="content">
+        </div>
+    </div>
+    <script type="text/javascript" charset="utf-8">
+        var webroot,
+            removeError = function (s) {
+                s = s.replace(/Â/g, "'");
+                s = s.replace(/â/g, "'");
+                return s;
+            },
+        alert = function (Message, Title) {
+            AppMobi.notification.vibrate(1) +
+            AppMobi.notification.alert(Message, Title, "Okay");
+        },
+        startLoading = function () {
+            $.mobile.showPageLoadingMsg();
+        },
+        stopLoading = function () {
+            $.mobile.hidePageLoadingMsg();
+        },
+        loadPage = function (url) {
+            var obj = $("#" + url);
+            if (obj != null)
+                $.mobile.changePage(obj);
+            else
+                $.mobile.changePage(url);
+        },
+        tooltipPopup = function (IDKey) {
+            startLoading();
+
+            $.get("http://www.riftcrafter.com/api/?", {
+                itemKey: IDKey,
+                format: "html"
+            }, function (data) {
+                var html = '<table id="item-table">' + $(data).find("#item-table").html() + '</table>';
+
+                stopLoading();
+
+                TINY.box.show({
+                    html: removeError(html),
+                    autohide: 15,
+                    close: true
+                });
+            });
+
+        },
+        showSelection = function (urlObj, options, type) {
+            var selectionName = urlObj.hash.replace(/.*selection=/, "").replace(/-/g, '/'),
+		    category,
+		    pageSelector = urlObj.hash.replace(/\?.*$/, "");
+
+            $.get(webRoot + type + "/" + selectionName + ".json", {
+            }, function (data) {
+
+                category = $.parseJSON(data);
+                if (category) {
+                    // Get the page we are going to dump our content into.
+                    var $page = $(pageSelector),
+
+                    // Get the header for the page.
+			$header = $page.children(":jqmData(role=header)"),
+
+                    // Get the content area element for the page.
+			$content = $page.children(":jqmData(role=content)"),
+
+                    // The markup we are going to inject into the content
+                    // area of the page.
+			markup = "<p>" + category.description + "</p><ul data-role='listview' data-inset='true'>",
+
+                    // The array of items for this category.
+			cItems = category.items,
+
+                    // The number of items in the category.
+			numItems = cItems.length;
+
+                    // Generate a list item for each item in the category
+                    // and add it to our markup.
+
+                    var refTagStart = "",
+                refTagEnd = "";
+
+                    for (var i = 0; i < numItems; i++) {
+
+                        switch (type) {
+                            case "instance":
+                                refTagStart = "<a href='#boss-selection?selection=" + cItems[i].selector + "'>";
+                                refTagEnd = "</a>";
+                                break;
+                            case "boss":
+                                refTagStart = "<a href='#' style='color:" + cItems[i].color + "' onclick='tooltipPopup(\"" + cItems[i].IDKey + "\");'>";
+                                refTagEnd = "</a>";
+                                break;
+                            default:
+                                refTagStart = "";
+                                refTagEnd = "";
+                                break;
+                        }
+
+                        markup += "<li>" + refTagStart + cItems[i].name + refTagEnd + "</li>";
+                    }
+                    markup += "</ul>";
+
+                    // Find the h1 element in our header and inject the name of
+                    // the category into it.
+                    $header.find("h1").html(category.name);
+
+                    // Inject the category items markup into the content element.
+                    $content.html(markup);
+
+                    // Pages are lazily enhanced. We call page() on the page
+                    // element to make sure it is always enhanced before we
+                    // attempt to enhance the listview markup we just injected.
+                    // Subsequent calls to page() are ignored since a page/widget
+                    // can only be enhanced once.
+                    $page.page();
+
+                    // Enhance the listview we just injected.
+                    $content.find(":jqmData(role=listview)").listview();
+
+                    // We don't want the data-url of the page we just modified
+                    // to be the url that shows up in the browser's location field,
+                    // so set the dataUrl option to the URL for the category
+                    // we just loaded.
+                    options.dataUrl = urlObj.href;
+
+                    // Now call changePage() and tell it to switch to
+                    // the page we just modified.
+                    $.mobile.changePage($page, options);
+                }
+            });
+
+        },
+        onDeviceReady = function () {
+            if (AppMobi.device.platform === 'Android') {
+                $.mobile.defaultPageTransition = 'none';
+                $.mobile.defaultDialogTransition = 'none';
+                $.mobile.useFastClick = true;
+            }
+            webRoot = AppMobi.webRoot;
+            setTimeout("AppMobi.device.hideSplashScreen();", 10000); //10sec splash timeout
+        },
+        onReady = function () {
+            $.ajaxSetup({
+                scriptCharset: "utf-8"
+            });
+            $(document).bind("pagebeforechange", function (e, data) {
+                // We only want to handle changePage() calls where the caller is
+                // asking us to load a page by URL.
+                if (typeof data.toPage === "string") {
+                    // We are being asked to load a page by URL, but we only
+                    // want to handle URLs that request the data for a specific
+                    // category.
+                    var u = $.mobile.path.parseUrl(data.toPage),
+			instance = /^#instance-selection/,
+            boss = /^#boss-selection/;
+                    if (u.hash.search(instance) !== -1) {
+                        // We're being asked to display the items for a specific category.
+                        // Call our internal method that builds the content for the category
+                        // on the fly based on our in-memory category data structure.
+                        showSelection(u, data.options, "instance");
+
+                        // Make sure to tell changePage() we've handled this call so it doesn't
+                        // have to do anything.
+                        e.preventDefault();
+                    }
+                    else if (u.hash.search(boss) !== -1) {
+                        showSelection(u, data.options, "boss");
+
+                        e.preventDefault();
+                    }
+                }
+            });
+            document.addEventListener("appMobi.device.ready", onDeviceReady, false);
+        }
+
+        onReady();
+    </script>
+</body>
+</html>

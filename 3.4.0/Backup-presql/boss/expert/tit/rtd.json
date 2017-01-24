@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Ragnoth the Despoiler",
+  "items": [
+    {
+      "IDKey": "D1CF8FFB0701010101",
+      "name": "Bonetread Sabatons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ED9796E40101010101",
+      "name": "Demonsplitter",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EBDAA8A30301010101",
+      "name": "Eliam's Footpads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BECEA4B00501010101",
+      "name": "Greaves of Vengeance",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DFDFB8B30301010101",
+      "name": "Hellscape Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B0F7DFDA0701010101",
+      "name": "Spaulders of Mortal Lure",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AFC386E20101010101",
+      "name": "Uncorrupted Ancient Life Wand",
+      "color": "#AD48FB"
+    }
+  ]
+}

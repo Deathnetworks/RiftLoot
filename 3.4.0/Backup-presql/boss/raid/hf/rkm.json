@@ -1,0 +1,81 @@
+{
+  "description": "Select an item",
+  "name": "Rune King Molinar",
+  "items": [
+    {
+      "IDKey": "D8B4A4EC0501010101",
+      "name": "Aegis of the Rune King",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C5C1809C0701010101",
+      "name": "Ancient Hammerknell Crown",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C68F8AD60201010101",
+      "name": "Bindings of Runic Fortitude",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E6A996C00501010101",
+      "name": "Cudgel of Corrupted Rites",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "93D3C9CF0701010101",
+      "name": "Dollin's Royal Blade",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "97F499950501010101",
+      "name": "Dollin's Sorcerous Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F2D28EFF0701010101",
+      "name": "Gloves of Disruption",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E3DBA0E00401010101",
+      "name": "Honor's Sting Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8CB0A1900701010101",
+      "name": "Molinar's Forged Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C8E58ACF0201010101",
+      "name": "Royal Outrider's Mantle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B596DDA10401010101",
+      "name": "Runed Hood of Molinar",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "878EFEB30701010101",
+      "name": "Runescarred Mail Boots",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F697C4DA0601010101",
+      "name": "Runic Vengeance Girdle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C486ADE80401010101",
+      "name": "Spaulders of the Rune King",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DCBFD19B0501010101",
+      "name": "Treads of the Rune Prince",
+      "color": "#AD48FB"
+    }
+  ]
+}

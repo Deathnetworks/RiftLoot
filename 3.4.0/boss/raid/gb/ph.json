@@ -1,0 +1,81 @@
+{
+  "description": "Select an item",
+  "name": "Prince Hylas",
+  "items": [
+    {
+      "IDKey": "E0D2CD960201010101",
+      "name": "Aelfwar Conspirator's Signet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F6B6C6DF0501010101",
+      "name": "Belt of Invigorating Vitae",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A5B5AA940501010101",
+      "name": "Blade of Greater Purpose",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A6B5AA940501010101",
+      "name": "Gem of Unbridled Growth",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8999E2CE0501010101",
+      "name": "Grovekeeper's Defense",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F79BD3860601010101",
+      "name": "Helm of Tranquil Visions",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A3B5AA940501010101",
+      "name": "Life's Bulwark",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A3D0C7D40701010101",
+      "name": "Lifebound Relic",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C6E397B60201010101",
+      "name": "Prince Hylas's Body",
+      "color": ""
+    },
+    {
+      "IDKey": "A4B5AA940501010101",
+      "name": "Prince's Crest",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DADFDFE30201010101",
+      "name": "Royal Charm of the Aelfwar",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F387BA5901010101",
+      "name": "Royal Focusing Crystal",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CC90C1F50201010101",
+      "name": "Slippers of the Aelfwar Prince",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BCD48D850201010101",
+      "name": "Squirrel Skin Mantle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B0FB9DD70301010101",
+      "name": "Twyl's Tarnished Crest",
+      "color": "#AD48FB"
+    }
+  ]
+}

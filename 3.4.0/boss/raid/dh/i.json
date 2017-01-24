@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Isskal",
+  "items": [
+    {
+      "IDKey": "A5AEF13501010101",
+      "name": "Black Ice",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D994E28B0701010101",
+      "name": "Blade of the Frozen Defender",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9096A1980201010101",
+      "name": "Deep Freeze Cowl",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C6EFA8D30201010101",
+      "name": "Hauberk of the Water Born",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9C9996AE0601010101",
+      "name": "Ice Scarred Warplate",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "95C088830101010101",
+      "name": "Ice Shard Pendant",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "86C3803E01010101",
+      "name": "Icy Helm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C4AAE98F0701010101",
+      "name": "Leggings of Endless Winter",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9C90DBF70301010101",
+      "name": "Shoulderpads of the Drowned",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DDBEA3F80701010101",
+      "name": "Winter's Woe",
+      "color": "#AD48FB"
+    }
+  ]
+}

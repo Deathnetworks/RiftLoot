@@ -1,0 +1,23 @@
+{
+    "description": "Select a boss",
+    "name": "Abyssal Precipice",
+    "items": [
+        {
+            "selector": "expert-ap-ka",
+            "name" : "Kaler Andrenos"
+        },{
+            "selector": "expert-ap-i",
+            "name" : "Icetalon"
+        },{
+            "selector": "expert-ap-mtb",
+            "name" : "Majolic the Bloodwalker"
+        },{
+            "selector": "expert-ap-r",
+            "name" : "Renthar"
+        },{
+            "selector": "expert-ap-cta",
+            "name" : "Calyx the Ancient"
+        }
+    ]
+
+}

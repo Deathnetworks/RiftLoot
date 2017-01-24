@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Queen Vallnara",
+  "items": [
+    {
+      "IDKey": "CEE69C0E01010101",
+      "name": "Blackened Chitin Protector",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8EE4ACE70501010101",
+      "name": "Cobalt Infused Signet",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B3EEABBE0301010101",
+      "name": "Engraved Gnar Shell Fragment",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9293BAD90201010101",
+      "name": "Ichor Stained Handwraps",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B6B0BFE10201010101",
+      "name": "Ruby Studded Band",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9BF994F10701010101",
+      "name": "Stoneborn Sabatons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B38FD0C50501010101",
+      "name": "Vallnana's Planewarped Chitin",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A9F3DC5D01010101",
+      "name": "Vallnara's Eye ",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D8B8ACEC0401010101",
+      "name": "Vallnara's Uncorrupted Antenna ",
+      "color": "#267FFA"
+    }
+  ]
+}

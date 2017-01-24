@@ -1,0 +1,26 @@
+{
+    "description": "Select a boss",
+    "name": "Charmer's Caldera",
+    "items": [
+        {
+            "selector": "expert-cc-s",
+            "name" : "Smouldaron"
+        },{
+            "selector": "expert-cc-c",
+            "name" : "Cyclorax"
+        },{
+            "selector": "expert-cc-rd",
+            "name" : "Ryka Dharvos"
+        },{
+            "selector": "expert-cc-cts",
+            "name" : "Caelia the Stormtouched"
+        },{
+            "selector": "expert-cc-g",
+            "name" : "Gronik"
+        },{
+            "selector": "expert-cc-j",
+            "name" : "Jultharin"
+        }
+    ]
+
+}

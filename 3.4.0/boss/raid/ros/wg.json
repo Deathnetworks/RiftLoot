@@ -1,0 +1,141 @@
+{
+  "description": "Select an item",
+  "name": "Warmaster Galenir",
+  "items": [
+    {
+      "IDKey": "E9F7C6C20301010101",
+      "name": "Corrupt Conqueror Legguards",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DA8FB3BC0701010101",
+      "name": "Dark Alcolyte's Chain Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BB9BFEA60701010101",
+      "name": "Dark Blood Chain",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D181CFBD0101010101",
+      "name": "Death Iron Chain Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A7828BC80601010101",
+      "name": "Death Steel Chain",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9381EAF80301010101",
+      "name": "Death Steel Crusher",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CE99D6AC0301010101",
+      "name": "Death Steel Shiv",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CB97C5CA0601010101",
+      "name": "Discordant Contagion Coif",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "94B7E60F01010101",
+      "name": "Galenir's Crusher",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "86ACA8D30601010101",
+      "name": "Galenir's Death Steel Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BCDABD840401010101",
+      "name": "Necrotic Scarab Amulet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A9B481EF0501010101",
+      "name": "Ornate Death Iron Chain",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F4A0F2E40101010101",
+      "name": "Pauldrons of the Kingslayer",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8AE7AC9A0401010101",
+      "name": "Pendant of Chained Madness",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A288A3AE0701010101",
+      "name": "Pendant of the Warmaster",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BFD7AA890101010101",
+      "name": "Regenerative Chain Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9FAFBAB60501010101",
+      "name": "Savage Steelhide Boots",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DD80DCB50201010101",
+      "name": "Soft Werewolf Skin Gloves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "99E8B2820301010101",
+      "name": "The Warmaster's Grasp",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9FE7CBEB0501010101",
+      "name": "Undying Mace",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C78C93DF0101010101",
+      "name": "Untamed Rage Vestments",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CBECC2BF0701010101",
+      "name": "Warmaster Leather Gloves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9481EAF80301010101",
+      "name": "Warmaster's Hammer",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8BFFFAC10501010101",
+      "name": "Warmaster's Hatchet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B1C6E9FF0401010101",
+      "name": "Warmaster's Longsword",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8488F0BB0601010101",
+      "name": "Warmaster's Reinforced Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F8B4B0E20201010101",
+      "name": "Werewolf Hide Gloves",
+      "color": "#AD48FB"
+    }
+  ]
+}

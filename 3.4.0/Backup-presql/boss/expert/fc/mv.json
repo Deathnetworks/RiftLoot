@@ -1,0 +1,31 @@
+{
+  "description": "Select an item",
+  "name": "Matron Verosa",
+  "items": [
+    {
+      "IDKey": "E3E4DACA0201010101",
+      "name": "Black Soul Tome",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B69D9A7A01010101",
+      "name": "Crone Striker",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C7A4B4C60101010101",
+      "name": "Death Forged Breastplate",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CEB7BB3601010101",
+      "name": "Mantle of the Witch",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F4859D860501010101",
+      "name": "Matron's Necklace",
+      "color": "#AD48FB"
+    }
+  ]
+}

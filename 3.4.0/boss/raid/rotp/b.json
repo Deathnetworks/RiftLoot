@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Beruhast",
+  "items": [
+    {
+      "IDKey": "B9D1CAE30401010101",
+      "name": "Blazeguard Belt",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A78EE92001010101",
+      "name": "Cinderhide Hood",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DE99DDB60701010101",
+      "name": "Flame Devil's Horns",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D782E6E80101010101",
+      "name": "Flametouched Gloves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D88AC0950501010101",
+      "name": "Flametouched Obi",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B9FFB89E0601010101",
+      "name": "Lava Forged Helmet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F1E7FCBD0401010101",
+      "name": "Lava Forged Tassets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ECC0C8C20201010101",
+      "name": "Molten Brand",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F7FBB84401010101",
+      "name": "Smoldersteel Fauld",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8EA790980101010101",
+      "name": "Smoldersteel Gloves",
+      "color": "#AD48FB"
+    }
+  ]
+}

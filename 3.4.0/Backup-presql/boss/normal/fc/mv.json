@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Matron Verosa",
+  "items": [
+    {
+      "IDKey": "B2FEAEF60501010101",
+      "name": "Deathruned Grips",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "98CF95BD0501010101",
+      "name": "Gauntlet of Undead Command",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DAFBE4AE0201010101",
+      "name": "Stonesplitter",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8E9CD0D30601010101",
+      "name": "Verosa's Abhorrent Tunic",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B3F3D73301010101",
+      "name": "Verosa's Illusive Pauldrons ",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CAD2CED60301010101",
+      "name": "Verosa's Untouchable Bow",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "889990AB0401010101",
+      "name": "Verosa's Walking Stick",
+      "color": "#267FFA"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "High Thane Hergen",
+  "items": [
+    {
+      "IDKey": "9EE9C9CC0601010101",
+      "name": "Darkgem Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BDF191A40301010101",
+      "name": "Earth Shattering Treads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E1DADAB30401010101",
+      "name": "Gauntlets of Earthen Mastery",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D983CDB00201010101",
+      "name": "Hardened Obsidian Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B5BA84D40701010101",
+      "name": "Hergen's Crystallized Vestments",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E0ABAF920301010101",
+      "name": "Hergen's Wall",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AA8DE0A30601010101",
+      "name": "High Thane's Trophy",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C5B9BA860701010101",
+      "name": "Wild Cudgel",
+      "color": "#AD48FB"
+    }
+  ]
+}

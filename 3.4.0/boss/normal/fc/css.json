@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Countess Surin Skenobar",
+  "items": [
+    {
+      "IDKey": "97FB87FF0301010101",
+      "name": "Countesses Fencing Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9FDEFBE10301010101",
+      "name": "Cruel Marksman's Footpads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "898AAC5201010101",
+      "name": "Hauberk of the Endless",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A3C7E0F80101010101",
+      "name": "Skenobar Family Claymore",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CBF1C50E01010101",
+      "name": "Skenobar Family Crest",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B38FD4830601010101",
+      "name": "Surin's Bloodstained Spaulders",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E486D7D30701010101",
+      "name": "The Countess's Rifle",
+      "color": "#267FFA"
+    }
+  ]
+}

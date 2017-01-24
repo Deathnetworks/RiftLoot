@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Caretaker Arcanis",
+  "items": [
+    {
+      "IDKey": "BFEFBF820601010101",
+      "name": "Caretaker's Powercore",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ADA994A10601010101",
+      "name": "Deep Iron Signet",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D4F8E7800401010101",
+      "name": "Dielectric Shank",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B5FFA0960301010101",
+      "name": "Dragon Keeper's Bulwark",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A0B2D84101010101",
+      "name": "Electric Belt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DFDBF6FF0201010101",
+      "name": "Energized Steel Rod",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C5B1EEF10201010101",
+      "name": "Grand Bauble of Brilliance",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D6AEFFA90401010101",
+      "name": "Twisted Iron Bulwark",
+      "color": "#267FFA"
+    }
+  ]
+}

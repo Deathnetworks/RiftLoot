@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Bonelord Fetlorn",
+  "items": [
+    {
+      "IDKey": "EFB1D4D40301010101",
+      "name": "Ageless Leather Belt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "99948ED40601010101",
+      "name": "Ancient Bone Leggings",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FCC2BB5801010101",
+      "name": "Bonelord's Luck",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A1C6FDD10601010101",
+      "name": "Ghastly Mantle",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A3ABFCA90301010101",
+      "name": "Helmet of the Commanding Heart",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CD94EE3301010101",
+      "name": "Misshapen Band",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D2D8A01601010101",
+      "name": "Recipe: Blazing Indomitable Runeshard",
+      "color": "#267FFA"
+    }
+  ]
+}

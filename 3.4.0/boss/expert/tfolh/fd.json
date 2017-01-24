@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Flamebringer Druhl",
+  "items": [
+    {
+      "IDKey": "DECFABC40201010101",
+      "name": "Devil's Luck",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E0B2FFD30201010101",
+      "name": "Fang of Maelforge",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "81889CD60301010101",
+      "name": "Flame Drenched Mail",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "97C6D5C90601010101",
+      "name": "Rock Skin Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B4C4BD830701010101",
+      "name": "Searing Necklace",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F7D3C3990501010101",
+      "name": "Slag Iron Greaves",
+      "color": "#267FFA"
+    }
+  ]
+}

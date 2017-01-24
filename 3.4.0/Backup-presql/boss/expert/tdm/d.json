@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Dichrom",
+  "items": [
+    {
+      "IDKey": "84F8AAF90601010101",
+      "name": "Eternal Helm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "96D79C0701010101",
+      "name": "Old Thieves' Mastertools",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "82ECF2EB0101010101",
+      "name": "Recipe: Heroic Spiritshatter Vial",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9CBEE2890501010101",
+      "name": "Reinforced Mechanic's Belt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B59FDA820601010101",
+      "name": "Sacred Heirloom of Eth",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E6B19DB40101010101",
+      "name": "Spine of Hate",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C5A0C2B40201010101",
+      "name": "Staff of Ominous Foresight",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AEC4D5E60401010101",
+      "name": "Stone Etched Slaughterblade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EDA5F8D70301010101",
+      "name": "Titan's Servant Signet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ADCBC5CE0701010101",
+      "name": "Tome of the Titans",
+      "color": "#AD48FB"
+    }
+  ]
+}

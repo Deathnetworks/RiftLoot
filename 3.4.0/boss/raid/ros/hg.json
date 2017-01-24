@@ -1,0 +1,96 @@
+{
+  "description": "Select an item",
+  "name": "Herald Gaurath",
+  "items": [
+    {
+      "IDKey": "EDF4EAC80401010101",
+      "name": "Bulwark of the Dragon",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "85CBC5FE0501010101",
+      "name": "Deathspeaker",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F7F0B7DD0301010101",
+      "name": "Deathweaver's Axe",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A9E9C5E70201010101",
+      "name": "Dragon Bone Grips",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BBE9C4F80401010101",
+      "name": "Dragon Bone Scepter",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FCCAEEAA0501010101",
+      "name": "Dragon Spine Greaves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A9E9B9D20301010101",
+      "name": "Fatebringer",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AAE9B9D20301010101",
+      "name": "Harbinger",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BCE9C4F80401010101",
+      "name": "Hatebinder, Wand of Spite",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F5FDF7EE0601010101",
+      "name": "Jagged Dragonhide Footpads",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DB83E7E60701010101",
+      "name": "Mantle of Suffering",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A4F0E5D60101010101",
+      "name": "Shield of Willpower",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CE9AE9CB0201010101",
+      "name": "Skull of the Fallen",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EAE4D0F30701010101",
+      "name": "Skull of the Undead Dragon",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8997D1FF0201010101",
+      "name": "The Fang of Gaurath",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BDE9C4F80401010101",
+      "name": "The Herald's Finger",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CF9AE9CB0201010101",
+      "name": "Tome of Unearthly Secrets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "82C584BC0301010101",
+      "name": "Woeful Hauberk",
+      "color": "#AD48FB"
+    }
+  ]
+}

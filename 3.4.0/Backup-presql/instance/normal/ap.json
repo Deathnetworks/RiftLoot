@@ -1,0 +1,17 @@
+{
+    "description": "Select a boss",
+    "name": "Abyssal Precipice (48-50)",
+    "items": [
+        {
+            "selector": "normal-ap-ka",
+            "name" : "Kaler Andrenos"
+        },{
+            "selector": "normal-ap-mtb",
+            "name" : "Majolic the Bloodwalker"
+        },{
+            "selector": "normal-ap-cta",
+            "name" : "Calyx the Ancient"
+        }
+    ]
+
+}

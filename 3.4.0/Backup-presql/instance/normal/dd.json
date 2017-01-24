@@ -1,0 +1,20 @@
+{
+    "description": "Select a boss",
+    "name": "Darkening Deeps (21-28)",
+    "items": [
+        {
+            "selector": "normal-dd-ab",
+            "name" : "Alchemist Braxtepel"
+        },{
+            "selector": "normal-dd-mb",
+            "name" : "Michael Bringhurst"
+        },{
+            "selector": "normal-dd-td",
+            "name" : "Tegenar Deepfang"
+        },{
+            "selector": "normal-dd-tgc",
+            "name" : "The Gedlo Council"
+        }
+    ]
+
+}

@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Michael Bringhurst",
+  "items": [
+    {
+      "IDKey": "A5BAFDF00301010101",
+      "name": "Book of Wanton Secrets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EFA3D2E80101010101",
+      "name": "Bringhurst's Tattered Trousers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "878D9BB10501010101",
+      "name": "Darkwalker Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BCE5D62F01010101",
+      "name": "Gnarlwood Rod",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "9B9F8AA50101010101",
+      "name": "Lost Waykeeper's Amulet",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EFBBABDD0101010101",
+      "name": "Prisoner's Grasp",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "A2C5AEAC0601010101",
+      "name": "Tearfall Slicer",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "AAD9EC9D0101010101",
+      "name": "Wanton Skullcap",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B4A292DC0201010101",
+      "name": "Waykeeper's Fallen Torch",
+      "color": "#267FFA"
+    }
+  ]
+}

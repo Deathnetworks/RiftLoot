@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Soulflayer Mondrach",
+  "items": [
+    {
+      "IDKey": "C1CAA7C60501010101",
+      "name": "Bilestained Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A8E4E3C60101010101",
+      "name": "Braided Planar Chain",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A49B9A6601010101",
+      "name": "Ring of the Endless Torrent",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F4CC80A30301010101",
+      "name": "Scarredflesh Breaches",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B2C6C85201010101",
+      "name": "Sunscorched Trousers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DDABE8DA0601010101",
+      "name": "Vaultforged Greaves",
+      "color": "#267FFA"
+    }
+  ]
+}

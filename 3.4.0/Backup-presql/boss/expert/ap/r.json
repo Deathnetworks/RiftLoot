@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Renthar",
+  "items": [
+    {
+      "IDKey": "EAA5F8D70301010101",
+      "name": "Abyssal Diamond Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9AE1832501010101",
+      "name": "Abyssal Musket",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C282989F0301010101",
+      "name": "Abyssal Pendant",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FCF9B6F50301010101",
+      "name": "Ancient Stormbound Battle Axe ",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A4C4F1AC0301010101",
+      "name": "Boneplate Shoulderpads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "879DE36601010101",
+      "name": "Pauldrons of Defeat",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "889BE4A70301010101",
+      "name": "Snakeskinned Shoulderwraps",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E8FD95C30401010101",
+      "name": "Spaulders of Bloody Fur",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B4D386E10401010101",
+      "name": "Yeti Fur Lined Sabatons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "99B2D84101010101",
+      "name": "Yeti Fur Mantle",
+      "color": "#267FFA"
+    }
+  ]
+}

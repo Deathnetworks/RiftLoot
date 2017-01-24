@@ -1,0 +1,61 @@
+{
+  "description": "Select an item",
+  "name": "High Priestess Hydriss",
+  "items": [
+    {
+      "IDKey": "8FA4CEBB0401010101",
+      "name": "Drowned Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F5E5D1E70501010101",
+      "name": "Helm of the Abyssal Acolyte",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "85B8BC8C0401010101",
+      "name": "High Tide Spaulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B9E5AFC40301010101",
+      "name": "Lost Signet of Akylios",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EFB0AEC50601010101",
+      "name": "Rust Proof Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B1C9DCB40201010101",
+      "name": "Rust Proof Helmet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D9EC98D30401010101",
+      "name": "Salt Crusted Helmet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CBF1987001010101",
+      "name": "Spaulders of Hydrostatic Defense",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E892B1D20301010101",
+      "name": "The Cold Heart",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BAD9C26B01010101",
+      "name": "Tsunami Slippers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A482A2A20501010101",
+      "name": "Weighted Boots",
+      "color": "#AD48FB"
+    }
+  ]
+}

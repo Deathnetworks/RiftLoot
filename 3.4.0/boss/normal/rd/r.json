@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Rictus",
+  "items": [
+    {
+      "IDKey": "B6ABE4DC0501010101",
+      "name": "Deathtouched Spellblade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FCC0DF860501010101",
+      "name": "Diseased Metallic Sabatons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A18F9B970401010101",
+      "name": "Plague Tainted Handgrips ",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D4C8D1800701010101",
+      "name": "Putrescent Skullcrusher",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F0BEF68E0101010101",
+      "name": "Shawl of Endless Blight",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C9C9CAC70601010101",
+      "name": "Stanig's Shield",
+      "color": ""
+    },
+    {
+      "IDKey": "C4E69DD20501010101",
+      "name": "Touch of Rictus",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FF90AC7801010101",
+      "name": "Treads of Contagion",
+      "color": "#267FFA"
+    }
+  ]
+}

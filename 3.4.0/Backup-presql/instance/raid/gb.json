@@ -1,0 +1,23 @@
+{
+    "description": "Select a boss",
+    "name": "Greenscale's Blight",
+    "items": [
+        {
+            "selector": "raid-gb-dl",
+            "name" : "Duke Letareus"
+        },{
+            "selector": "raid-gb-ij",
+            "name" : "Infiltrator Johlen"
+        },{
+            "selector": "raid-gb-oa",
+            "name" : "Oracle Aleria"
+        },{
+            "selector": "raid-gb-ph",
+            "name" : "Prince Hylas"
+        },{
+            "selector": "raid-gb-lg",
+            "name" : "Lord Greenscale"
+        }
+    ]
+
+}

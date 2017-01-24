@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Rorf",
+  "items": [
+    {
+      "IDKey": "E498CF9E0501010101",
+      "name": "Catgut Treads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9980EADA0701010101",
+      "name": "Faded Crest of the Wanton",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ABFDB07701010101",
+      "name": "Feline Steelboots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D5A991A00501010101",
+      "name": "Flimsy Fur Hood",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A3ECB97401010101",
+      "name": "Rorf's Copper Crown",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9390D88F0601010101",
+      "name": "Rorf's Pinky Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E2C0F3A30401010101",
+      "name": "Sinew Strung Longbow",
+      "color": "#267FFA"
+    }
+  ]
+}

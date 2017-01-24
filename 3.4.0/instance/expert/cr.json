@@ -1,0 +1,26 @@
+{
+    "description": "Select a boss",
+    "name": "Caduceus Rise",
+    "items": [
+        {
+            "selector": "expert-cr-hth",
+            "name" : "High Thane Hergen"
+        },{
+            "selector": "expert-cr-fa",
+            "name" : "Faultwalker Alraj"
+        },{
+            "selector": "expert-cr-hp",
+            "name" : "Hookmaster Palos"
+        },{
+            "selector": "expert-cr-az",
+            "name" : "Ashcaller Zael"
+        },{
+            "selector": "expert-cr-c1",
+            "name" : "Coalgut"
+        },{
+            "selector": "expert-cr-c2",
+            "name" : "Caduceus"
+        },
+    ]
+
+}

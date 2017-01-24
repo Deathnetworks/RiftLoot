@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Cyclorax",
+  "items": [
+    {
+      "IDKey": "C494C4F10401010101",
+      "name": "Crackling Chain Belt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E5BE89860701010101",
+      "name": "Feathersteel Helm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ACCBADD40401010101",
+      "name": "Feathlight Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A8C1D8A00501010101",
+      "name": "Finely Carved Turquoise",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F1E8ECAF0401010101",
+      "name": "Lightning Caster",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A8DCE0EE0701010101",
+      "name": "Singed Leather Shoulderpads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B083C2F20201010101",
+      "name": "Sparktouched Pauldrons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FCC5894101010101",
+      "name": "Tempest Breeches",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BEF19D830201010101",
+      "name": "Wind's Breath",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CBAE827401010101",
+      "name": "Windstruck Helm",
+      "color": "#267FFA"
+    }
+  ]
+}

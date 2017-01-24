@@ -1,0 +1,21 @@
+{
+  "description": "Select an item",
+  "name": "Caduceus",
+  "items": [
+    {
+      "IDKey": "FBB6D8F50501010101",
+      "name": "Faultless Tunic",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E2C9A79A0501010101",
+      "name": "Quake proof Helm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C0B1AEC60401010101",
+      "name": "Tremor Pads",
+      "color": "#267FFA"
+    }
+  ]
+}

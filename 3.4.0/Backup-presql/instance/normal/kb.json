@@ -1,0 +1,23 @@
+{
+    "description": "Select a boss",
+    "name": "King's Breach (33-42)",
+    "items": [
+        {
+            "selector": "normal-kb-hs",
+            "name" : "Hunter Suleng"
+        },{
+            "selector": "normal-kb-r",
+            "name" : "Ravalos"
+        },{
+            "selector": "normal-kb-fa",
+            "name" : "Flesheater Autoch"
+        },{
+            "selector": "normal-kb-sm",
+            "name" : "Soulflayer Mondrach"
+        },{
+            "selector": "normal-kb-sp",
+            "name" : "Shadehorror Phantasm"
+        }
+    ]
+
+}

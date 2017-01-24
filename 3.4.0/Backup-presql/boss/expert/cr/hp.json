@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Hookmaster Palos",
+  "items": [
+    {
+      "IDKey": "8D8CFCF70301010101",
+      "name": "Blood Bound Edge",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ADD7C23F01010101",
+      "name": "Blood Stained Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8CB2F3B20401010101",
+      "name": "Eye of Palos",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CE9F9EA60701010101",
+      "name": "Grips of Pummeling",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A189F1990201010101",
+      "name": "Hookmaster's Keyring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F096AFD40101010101",
+      "name": "Hookmaster's Rapture",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "87F5DBD70301010101",
+      "name": "Hookmaster's Shatter Maul",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "88C782BA0301010101",
+      "name": "Seismic Stompers",
+      "color": "#AD48FB"
+    }
+  ]
+}

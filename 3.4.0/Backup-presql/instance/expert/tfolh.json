@@ -1,0 +1,23 @@
+{
+    "description": "Select a boss",
+    "name": "The Fall of Lantern Hook",
+    "items": [
+        {
+            "selector": "expert-tfolh-r",
+            "name" : "Rorf"
+        },{
+            "selector": "expert-tfolh-pc",
+            "name" : "Pyromaster Cortilnald"
+        },{
+            "selector": "expert-tfolh-ee",
+            "name" : "Emberlord Ereetu"
+        },{
+            "selector": "expert-tfolh-fd",
+            "name" : "Flamebringer Druhl"
+        },{
+            "selector": "expert-tfolh-otf",
+            "name" : "Oludare the Firehoof"
+        }
+    ]
+
+}

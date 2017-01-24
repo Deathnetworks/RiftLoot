@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Alchemist Braxtepel",
+  "items": [
+    {
+      "IDKey": "A8FB98F20701010101",
+      "name": "Alchemist's Anklewraps",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E2B1F6E40601010101",
+      "name": "Blacktar Wallwalkers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "97E0FCEE0601010101",
+      "name": "Bloodletter's Caustic Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DF8997BB0301010101",
+      "name": "Emberforged Siegebreakers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9DB2D84101010101",
+      "name": "Stainless Alchemists Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C8DD99EE0301010101",
+      "name": "Tar Stained Coalstriders",
+      "color": "#267FFA"
+    }
+  ]
+}

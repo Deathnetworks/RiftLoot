@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Icetalon",
+  "items": [
+    {
+      "IDKey": "C9B5E3E30401010101",
+      "name": "Abyssal Hatchet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9AE1832501010101",
+      "name": "Abyssal Musket",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C282989F0301010101",
+      "name": "Abyssal Pendant",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AAADB0970401010101",
+      "name": "Breastplate of the Lost",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BBBBCFAE0701010101",
+      "name": "Featherweave Robes",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D290A41601010101",
+      "name": "Frosted Links of Outrage",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8497F5D40701010101",
+      "name": "Griffon Bone Gauntlet",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "95BEE2890501010101",
+      "name": "Griffon Hide Gloves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "97FFDBC90601010101",
+      "name": "Stormrider's Vest",
+      "color": "#267FFA"
+    }
+  ]
+}

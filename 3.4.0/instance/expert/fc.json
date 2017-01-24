@@ -1,0 +1,26 @@
+{
+    "description": "Select a boss",
+    "name": "Foul Cascade",
+    "items": [
+        {
+            "selector": "expert-fc-css",
+            "name" : "Countess Surin Skenobar"
+        },{
+            "selector": "expert-fc-mv",
+            "name" : "Matron Verosa"
+        },{
+            "selector": "expert-fc-kb",
+            "name" : "Krasimir Barionov"
+        },{
+            "selector": "expert-fc-tlm",
+            "name" : "Tephra Lord Maficros"
+        },{
+            "selector": "expert-fc-qv",
+            "name" : "Queen Vallnara"
+        },{
+            "selector": "expert-fc-s",
+            "name" : "Sparkwing"
+        },
+    ]
+
+}

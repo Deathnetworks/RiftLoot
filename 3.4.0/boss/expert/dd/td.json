@@ -1,0 +1,31 @@
+{
+  "description": "Select an item",
+  "name": "Tegenar Deepfang",
+  "items": [
+    {
+      "IDKey": "C8BD959E0601010101",
+      "name": "Arachnid Long Knife",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "88BCFC820401010101",
+      "name": "Deepfang Chitin Helm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FBE780890701010101",
+      "name": "Envenomed Runeblade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "98A0B7820601010101",
+      "name": "Giant Spider Filament Talisman",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E2B3F7CE0701010101",
+      "name": "Reclusive Poison Choker",
+      "color": "#267FFA"
+    }
+  ]
+}

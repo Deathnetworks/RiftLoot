@@ -1,0 +1,76 @@
+{
+  "description": "Select an item",
+  "name": "Anrak the Foul",
+  "items": [
+    {
+      "IDKey": "CE9A83C60201010101",
+      "name": "Ancient Ethian helm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D6DFB58E0301010101",
+      "name": "Boots of the Scorpion",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A0A7801001010101",
+      "name": "Foul Band of Chitin",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9FA6B40E01010101",
+      "name": "Foul Chitin Necklace",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C8C5F9EC0601010101",
+      "name": "Foul Stinger",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E0F1C9AD0301010101",
+      "name": "Greathelm of Gluttony",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C497D1EA0201010101",
+      "name": "Links of Gold",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B0DAF6DC0101010101",
+      "name": "Mace of Greed",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ABE6E2AA0501010101",
+      "name": "Mace of Longing",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C9D190870601010101",
+      "name": "Quantum Repeater",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A289DA7C01010101",
+      "name": "Shoulderpads of Avarice",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BFCDEEF10201010101",
+      "name": "Spiked Chitin Breastplate",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EB80A0B30601010101",
+      "name": "Staff of Excess",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D69089B10601010101",
+      "name": "Tainted Leggings",
+      "color": "#AD48FB"
+    }
+  ]
+}

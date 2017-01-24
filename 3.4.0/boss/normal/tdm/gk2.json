@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Gatekeeper Kaleida",
+  "items": [
+    {
+      "IDKey": "95DFA2870501010101",
+      "name": "Concussion Refractor",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C6AB88EA0301010101",
+      "name": "Gemstone Scepter",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "82FCAD800701010101",
+      "name": "Golem Maker's Mark",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E181F0FA0701010101",
+      "name": "Golem's Energy Core",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F3CDA8A80301010101",
+      "name": "Golem's Sensory Core",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CEE7FD930701010101",
+      "name": "Jeweled Shoulderpads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C19BF02601010101",
+      "name": "Prismatic Buckler",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A2C9D4EA0401010101",
+      "name": "Sparkling Waistguard",
+      "color": "#267FFA"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "description": "Select an item",
+  "name": "Tegenar Deepfang",
+  "items": [
+    {
+      "IDKey": "AEE4AF820201010101",
+      "name": "Chitin bound Signet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8AB983F80101010101",
+      "name": "Crystallized Venom Choker",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D0A9865101010101",
+      "name": "Polished Chitin Skull",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F89ACBFE0401010101",
+      "name": "Twitching Spider Leg",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C681E2DF0301010101",
+      "name": "Web Etched Band",
+      "color": "#AD48FB"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Faultwalker Alraj",
+  "items": [
+    {
+      "IDKey": "C2E297DF0201010101",
+      "name": "Belt of Grinding Tremors",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F7E883ED0701010101",
+      "name": "Bracers of the Wicked",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B9FD9DD90601010101",
+      "name": "Chestguard of the Wicked",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E0A5DD8E0601010101",
+      "name": "Sharp Obsidian Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FDAC81AB0401010101",
+      "name": "Solar Talisman",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A094CE850401010101",
+      "name": "Terramorphic Boots of the Faultwalker",
+      "color": "#267FFA"
+    }
+  ]
+}

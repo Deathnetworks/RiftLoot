@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Bonehew the Thunderer",
+  "items": [
+    {
+      "IDKey": "EADED1CA0201010101",
+      "name": "Bladebreak Belt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E7F2A2D70101010101",
+      "name": "Cord of Seismic Disruption",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A1B2D84101010101",
+      "name": "Elemental Iron Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EDEBB96301010101",
+      "name": "Hood of the Shimmering Mist",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CBA2E6DD0101010101",
+      "name": "Merciful Prophet's Cord",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "929A96AE0401010101",
+      "name": "Renegade's Strangler",
+      "color": "#267FFA"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Wormwood",
+  "items": [
+    {
+      "IDKey": "D2B5EA6001010101",
+      "name": "Nature's Wrath",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A9FDF5920701010101",
+      "name": "Rune Wood Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E7CE84DD0601010101",
+      "name": "Rune Wood Long Bow",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AD82D4D80101010101",
+      "name": "Rune Wood Shoulderpads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9A83A6F40301010101",
+      "name": "Rune Wood Slippers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BCC98ABB0101010101",
+      "name": "Rune Wood Vambraces",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CDE3E5910101010101",
+      "name": "Wormwood's Arm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F5E39ABB0301010101",
+      "name": "Wormwood's Finger",
+      "color": "#267FFA"
+    }
+  ]
+}

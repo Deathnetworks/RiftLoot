@@ -1,0 +1,23 @@
+{
+    "description": "Select a boss",
+    "name": "King's Breach",
+    "items": [
+        {
+            "selector": "expert-kb-hs",
+            "name" : "Hunter Suleng"
+        },{
+            "selector": "expert-kb-r",
+            "name" : "Ravalos"
+        },{
+            "selector": "expert-kb-m",
+            "name" : "Manticores"
+        },{
+            "selector": "expert-kb-sp",
+            "name" : "Shadehorror Phantasm"
+        },{
+            "selector": "expert-kb-k",
+            "name" : "Konstantin"
+        },
+    ]
+
+}

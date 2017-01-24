@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Kaler Andrenos",
+  "items": [
+    {
+      "IDKey": "C282989F0301010101",
+      "name": "Abyssal Pendant",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E1C8E79C0201010101",
+      "name": "Abyssal Researcher's Relic",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B796C68F0701010101",
+      "name": "Crustacean Talisman",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A9908ABB0601010101",
+      "name": "Insignia of the Deep",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "98B2D84101010101",
+      "name": "Kaler's Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C883CEE50401010101",
+      "name": "Kaler's Jerkin",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FDDAE8BE0201010101",
+      "name": "Kaler's Shortbow",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B2A6AC820201010101",
+      "name": "Recipe: Spined Compound Bow",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "80D3F4E40601010101",
+      "name": "Riptide Kris",
+      "color": "#267FFA"
+    }
+  ]
+}

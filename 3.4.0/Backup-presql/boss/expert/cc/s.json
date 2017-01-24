@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Smouldaron",
+  "items": [
+    {
+      "IDKey": "84DCE9AF0301010101",
+      "name": "Disc of Impending Valor",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AAD2CCCA0401010101",
+      "name": "Firebranded Bow",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "85A6F5AD0401010101",
+      "name": "Shield of Searing Pain",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "94BEE2890501010101",
+      "name": "Smoldering Demon Hide Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "86C4A3E90701010101",
+      "name": "Smoldering Demon Totem",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CB9A9A6A01010101",
+      "name": "Windblasted Twig",
+      "color": "#267FFA"
+    }
+  ]
+}

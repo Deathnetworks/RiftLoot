@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Warden Falidor",
+  "items": [
+    {
+      "IDKey": "889688C00701010101",
+      "name": "Binder's Shoulderpads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A6B1B8A40201010101",
+      "name": "Corrupted Lightning Wand",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F9FFA68C0601010101",
+      "name": "High Warden's Breastplate",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E0ADB9A80701010101",
+      "name": "Mantle of the Unjust",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D0DFCBCC0701010101",
+      "name": "Royal Spaulders of Nimbleness",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E0A5C60201010101",
+      "name": "Shard of Planes",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DBC9D9EB0401010101",
+      "name": "Shoulderplates of the Misguided",
+      "color": "#267FFA"
+    }
+  ]
+}

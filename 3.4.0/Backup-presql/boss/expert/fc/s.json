@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Sparkwing",
+  "items": [
+    {
+      "IDKey": "DC86D07601010101",
+      "name": "Charged Stone",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DBA08EBF0601010101",
+      "name": "Gnarhide Wraps",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8397FCFF0501010101",
+      "name": "Lightning Band",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FBD98DAE0701010101",
+      "name": "Ring Talon Belt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EBB1D4D40301010101",
+      "name": "Roc Skin Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C794A92701010101",
+      "name": "Sparkfeather Hood",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A7C0DEF20701010101",
+      "name": "Storm Guard",
+      "color": "#267FFA"
+    }
+  ]
+}

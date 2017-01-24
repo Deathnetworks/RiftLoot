@@ -1,0 +1,81 @@
+{
+  "description": "Select an item",
+  "name": "Sicaron",
+  "items": [
+    {
+      "IDKey": "A3B3D6D20201010101",
+      "name": "Blood Quill Gorget",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C2DC84A90701010101",
+      "name": "Bonefused Blade",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "80CAA1870701010101",
+      "name": "Boneweave Leggings",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FBCDBF970101010101",
+      "name": "Buckler of Decayed Souls",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A8EA9B6401010101",
+      "name": "Chestguard of Soul Theft",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F08FD0EA0101010101",
+      "name": "Cryptic Bone Shard",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F7FCF9EC0501010101",
+      "name": "Cursed Hex Legguards",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8A9082C00201010101",
+      "name": "Mace of Cursed Souls",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A7A9849F0701010101",
+      "name": "Moldering Decay Bludgeon",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AB8B81B30401010101",
+      "name": "Neckguard of the Fallen",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8BA2C0D50401010101",
+      "name": "Raiment of Deception",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "80CBDBC30301010101",
+      "name": "Relic of Unholy Contracts",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FCCAFEE60401010101",
+      "name": "Screaming Soul Hauberk",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A3D786CF0701010101",
+      "name": "Signet of Lost Souls",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E398A9AF0601010101",
+      "name": "Soulgreaves of Sicaron",
+      "color": "#AD48FB"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "description": "Select an item",
+  "name": "Grugonim",
+  "items": [
+    {
+      "IDKey": "8CDFF8DF0401010101",
+      "name": "Acidic Finger Loop",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CCEEAE8E0701010101",
+      "name": "Barbed Bone Neckguard",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E6A7D2CA0401010101",
+      "name": "Bonegrinder of Necrotic Ooze",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C1CCA67501010101",
+      "name": "Corrosive Pitted Greaves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C4C181960601010101",
+      "name": "Cryptcaller's Tome",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DDC6EAA20301010101",
+      "name": "Cryptwalker's Cudgel",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "90AFEC3301010101",
+      "name": "Dwarven Cursed Legguards",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8BDFF8DF0401010101",
+      "name": "Forged Delver's Insignia",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8BA4A4AB0501010101",
+      "name": "Grugonim's Corrosive Dredger",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D6F9BCB60601010101",
+      "name": "Grugonim Hide Bulwark",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A7CEF7DB0501010101",
+      "name": "Necklace of the Returned",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "82CFFF8D0301010101",
+      "name": "Necrotic Breath Chestplate",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DAE0B0970701010101",
+      "name": "Parasite Ridden Pantaloons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9CF6A33F01010101",
+      "name": "Tunic of Rampant Decay",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9299C5BC0701010101",
+      "name": "Venomous Boneshank",
+      "color": "#AD48FB"
+    }
+  ]
+}

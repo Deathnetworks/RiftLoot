@@ -1,0 +1,71 @@
+{
+  "description": "Select an item",
+  "name": "Inwar Darktide",
+  "items": [
+    {
+      "IDKey": "FBF6E9810701010101",
+      "name": "Abyssal Mark of Power",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CAEEAE8E0701010101",
+      "name": "Amulet of Unnamed Horrors",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "89DFF8DF0401010101",
+      "name": "Band of Endless Madness",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CEEEAE8E0701010101",
+      "name": "Brine Crusted Chain",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8687A7A20201010101",
+      "name": "Darktide's Unbreakable Will",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C8EEAE8E0701010101",
+      "name": "Jewels of the Crushing Deep",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9DD591810301010101",
+      "name": "Lightning's Kiss",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E5DACCF50101010101",
+      "name": "Ocean's Fury",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "87B9A59B0501010101",
+      "name": "Rolling Thunder",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8EDFF8DF0401010101",
+      "name": "Signet of the Faceless",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A28EB13401010101",
+      "name": "Storm Breaker",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E888C4B50601010101",
+      "name": "Sunken Heart of Eons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8EA2D7C80601010101",
+      "name": "Thunder Shot",
+      "color": "#AD48FB"
+    }
+  ]
+}

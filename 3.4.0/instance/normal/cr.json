@@ -1,0 +1,20 @@
+{
+    "description": "Select a boss",
+    "name": "Caduceus Rise (48-50)",
+    "items": [
+        {
+            "selector": "normal-cr-hth",
+            "name" : "High Thane Hergen"
+        }, {
+            "selector": "normal-cr-fa",
+            "name" : "Faultwalker Alraj"
+        }, {
+            "selector": "normal-cr-hp",
+            "name" : "Hookmaster Palos"
+        }, {
+            "selector": "normal-cr-c",
+            "name" : "Caduceus"
+        }
+    ]
+
+}

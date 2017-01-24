@@ -1,0 +1,26 @@
+{
+  "description": "Select an item",
+  "name": "Alchemist Braxtepel",
+  "items": [
+    {
+      "IDKey": "F1D5B4900601010101",
+      "name": "Acidic Ringmail Boots",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BDBBA8AA0101010101",
+      "name": "Chemical Stained Chausses",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ADB2C5C50501010101",
+      "name": "Ether Soaked Footpads",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BAE2A7A80601010101",
+      "name": "Sulphur Dusted Footpads",
+      "color": "#AD48FB"
+    }
+  ]
+}

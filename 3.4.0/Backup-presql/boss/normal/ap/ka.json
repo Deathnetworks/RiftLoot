@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Kaler Andrenos",
+  "items": [
+    {
+      "IDKey": "E2DFB6950601010101",
+      "name": "Eye of the North",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9FEA84DA0701010101",
+      "name": "Frost Touched Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B9D88ED90601010101",
+      "name": "Frost Touched Pendant",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "88D2C6EB0201010101",
+      "name": "Frost Touched Shoulder Pads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9D99E7E20501010101",
+      "name": "Frost Touched Vambraces",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C38C8DF20101010101",
+      "name": "Frostbitten Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EC8AA1DB0301010101",
+      "name": "Iron Wood Staff",
+      "color": "#267FFA"
+    }
+  ]
+}

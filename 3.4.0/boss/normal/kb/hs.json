@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Hunter Suleng",
+  "items": [
+    {
+      "IDKey": "D08BE31D01010101",
+      "name": "Coif of the Harsh Wastes",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D18CFAF20501010101",
+      "name": "Highsight Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8FFEB0C70401010101",
+      "name": "Sootstained Peacekeeper",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EDF4E9F00201010101",
+      "name": "Suleng's Ballistic Belt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ADA2D5D30501010101",
+      "name": "Suleng's Powder Girdle",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BB8399990201010101",
+      "name": "Suleng's Scythe",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A5988D8C0201010101",
+      "name": "Suleng's Smithing Helm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DE8FEAF30701010101",
+      "name": "The Hunter's Rod",
+      "color": "#267FFA"
+    }
+  ]
+}

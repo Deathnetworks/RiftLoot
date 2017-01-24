@@ -1,0 +1,101 @@
+{
+  "description": "Select an item",
+  "name": "Dark Focus",
+  "items": [
+    {
+      "IDKey": "95B6C4840701010101",
+      "name": "Amulet of Shattered Dreams",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CEB7FBDB0701010101",
+      "name": "Band of a Thousand Screams",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EAB9CDD30201010101",
+      "name": "Belt of Domination",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "96B6C4840701010101",
+      "name": "Blighted Pendant",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ADE5D4800701010101",
+      "name": "Buckle of Servitude",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "91B6C4840701010101",
+      "name": "Crescent of Night",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DF8DA5B20301010101",
+      "name": "Deathplate Bindings",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9DE298F80501010101",
+      "name": "Girdle of Shifting Shadows",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CFB7FBDB0701010101",
+      "name": "Jewel of Shining Darkness",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "92B6C4840701010101",
+      "name": "Mark of Darkness",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CCB7FBDB0701010101",
+      "name": "Mark of Regulos",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9085CC890601010101",
+      "name": "Ravagers Bindings",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CDB7FBDB0701010101",
+      "name": "Ring of Unending Night",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D0B7FBDB0701010101",
+      "name": "Ring of the Devourer",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "93B6C4840701010101",
+      "name": "Runebound Necklace",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E1F5F8F30201010101",
+      "name": "Sash of Imprisonment",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B2E4B5BC0401010101",
+      "name": "Sash of the Night Eternal",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D8ECF9AA0201010101",
+      "name": "Strap of Darkness",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "94B6C4840701010101",
+      "name": "Tormented Soul",
+      "color": "#AD48FB"
+    }
+  ]
+}

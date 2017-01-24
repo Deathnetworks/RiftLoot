@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Krasimir Barionov",
+  "items": [
+    {
+      "IDKey": "E1E0CAF10701010101",
+      "name": "Ancient Stillmoor Robes",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BF9390800201010101",
+      "name": "Barionov's Hexer",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CD9DDEE90401010101",
+      "name": "Barionov's Mantle of Ruination ",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D9E9E9970101010101",
+      "name": "Barionov's Skull",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9CA28D920201010101",
+      "name": "Bloodstained Ritual Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C3ACE0860701010101",
+      "name": "Corroded Carver",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "96E7AFC80701010101",
+      "name": "Lichborne Footguards",
+      "color": "#267FFA"
+    }
+  ]
+}

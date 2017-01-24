@@ -1,0 +1,26 @@
+{
+  "description": "Select an item",
+  "name": "Faultwalker Alraj",
+  "items": [
+    {
+      "IDKey": "BDBFCCF30401010101",
+      "name": "Chestguard of the Faultwalker",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8F8FA9F50501010101",
+      "name": "Tectonic Granite Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CE9D94C70201010101",
+      "name": "Tectonic Spellblade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C39CDAD40301010101",
+      "name": "Terramorphic Vest",
+      "color": "#267FFA"
+    }
+  ]
+}

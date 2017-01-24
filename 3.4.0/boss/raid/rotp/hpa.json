@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Chest",
+  "items": [
+    {
+      "IDKey": "CA95EB960301010101",
+      "name": "Ashes of the Phoenix",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B8A6BBF10701010101",
+      "name": "Blazeguard Shoulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CBA2C1FB0401010101",
+      "name": "Cinderhide Tunic",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F0C59EB90401010101",
+      "name": "Flamesickle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B7D988F30401010101",
+      "name": "Flametalon",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8AAFAEEF0401010101",
+      "name": "Inferno",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EDE88F850701010101",
+      "name": "Lava Forged Pauldrons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F5DB8BA10501010101",
+      "name": "Smoldersteel Spaulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F49DC8A80701010101",
+      "name": "Vortex",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EACD95C20401010101",
+      "name": "Wildfire Plate Spaulders",
+      "color": "#AD48FB"
+    }
+  ]
+}

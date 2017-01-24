@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Glubmuk",
+  "items": [
+    {
+      "IDKey": "FFD9FDE10101010101",
+      "name": "Alchemist's Unstable Solution",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CEA0C1DE0301010101",
+      "name": "Bile Soaked Tome",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8E84AEE40201010101",
+      "name": "Gutter Crush",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E1EBF5AA0201010101",
+      "name": "Murk Shrouded Trinket",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B2A7A50B01010101",
+      "name": "Recipe: Dragon Ruby Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FBE7F09F0401010101",
+      "name": "Septic Cutter",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ABA994A10601010101",
+      "name": "Sharp Silver Ring",
+      "color": "#267FFA"
+    }
+  ]
+}

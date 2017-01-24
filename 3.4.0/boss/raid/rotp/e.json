@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Ereandorn",
+  "items": [
+    {
+      "IDKey": "93D7EA920301010101",
+      "name": "Blazeguard Hood",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9093B55201010101",
+      "name": "Cinderhide Belt",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A4B691880401010101",
+      "name": "Divine Flame",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F1AE9A7901010101",
+      "name": "Embermail Sallet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "90EA909A0701010101",
+      "name": "Flametouched Mantle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8AE9E0DB0501010101",
+      "name": "Gauntlets of Immolation",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A9EBA2800701010101",
+      "name": "Lava Etched Knuckleguard",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E0F2D6950101010101",
+      "name": "Lava Forged Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B9FFB89E0601010101",
+      "name": "Lava Forged Helmet",
+      "color": "#AD48FB"
+    }
+  ]
+}

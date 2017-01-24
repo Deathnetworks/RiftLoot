@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "The Gedlo Council",
+  "items": [
+    {
+      "IDKey": "DC8BB25F01010101",
+      "name": "Band of Wanton Visions",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8A81CABB0501010101",
+      "name": "Council Gavel",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "999A98920401010101",
+      "name": "Gedlo Binding",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ADE7A6ED0101010101",
+      "name": "Gerbik's Scorched Raiment",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "94D8C8D40101010101",
+      "name": "Nuggo's Ritual Links",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EDCD842101010101",
+      "name": "Shard of the Sacred Egg",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C7D2FBE50301010101",
+      "name": "Signet of Deep Shadows",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AEBADABC0501010101",
+      "name": "Swedge's Warplate",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A2E1F3AD0301010101",
+      "name": "Tunic of the Gedlo Spy",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A496FEA00201010101",
+      "name": "Whelp Master's Cudgel",
+      "color": "#267FFA"
+    }
+  ]
+}

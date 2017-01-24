@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Tephra Lord Maficros",
+  "items": [
+    {
+      "IDKey": "EFBBD85601010101",
+      "name": "Ash Coat Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "84D9E4C10101010101",
+      "name": "Burning Sigil",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "98D6BDB90101010101",
+      "name": "Cinder Weave Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CBF8969A0301010101",
+      "name": "Corrupted Steel Helm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "93FCBDFF0501010101",
+      "name": "Earth Elemental's Heart",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E6B0F2A70701010101",
+      "name": "Elemental Iron Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C183E4A20201010101",
+      "name": "Molten Necklace",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "97C2ADD10401010101",
+      "name": "Queen's Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B1A6AC820201010101",
+      "name": "Recipe: Callous Blade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B5D0F0910601010101",
+      "name": "Tephra Lord's Rule",
+      "color": "#AD48FB"
+    }
+  ]
+}

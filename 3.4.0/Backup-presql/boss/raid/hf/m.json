@@ -1,0 +1,81 @@
+{
+  "description": "Select an item",
+  "name": "Murdantix",
+  "items": [
+    {
+      "IDKey": "B2DFE2C40301010101",
+      "name": "Barbed Tongue of the Beast",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BEEED6E60401010101",
+      "name": "Cold Dead Handguards",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "81E0DAF50501010101",
+      "name": "Corpse Drowned Diamond",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C1AECEDD0201010101",
+      "name": "Death's Advance",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8DCEE2EA0501010101",
+      "name": "Destroyer of Legends",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EAA489B80401010101",
+      "name": "Gore Drenched Waist",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F1CFEBDD0201010101",
+      "name": "Gore Spattered Helm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B4E2EAFB0201010101",
+      "name": "Mantle of Ravaged Souls",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "86F2C47301010101",
+      "name": "Reaper's Heavy Shoulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "91D18AF40501010101",
+      "name": "Rune Vessel Remnant",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "95B9A25A01010101",
+      "name": "Salvation's Grip",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8CBBEA970601010101",
+      "name": "Savage Beastcarver",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B3A4C76201010101",
+      "name": "Slaughter Forged Faceplate",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8ADFF8DF0401010101",
+      "name": "Survivor's Hope",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E384DD9B0101010101",
+      "name": "Treads of Stinking Tar",
+      "color": "#AD48FB"
+    }
+  ]
+}

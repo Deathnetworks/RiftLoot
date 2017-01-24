@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Tegenar Deepfang",
+  "items": [
+    {
+      "IDKey": "E1B6818C0701010101",
+      "name": "Chitin bound Greaves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D3F8906401010101",
+      "name": "Cowl of Many Eyes",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E09CA9860301010101",
+      "name": "Darkened Carapace",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AEFEA6F60501010101",
+      "name": "Deepfang Loop",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B499C0A00201010101",
+      "name": "Deepfang Quarterstaff",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "CED1C8C50601010101",
+      "name": "Spider hide Gloves",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "EE86A0970701010101",
+      "name": "Tegenar's Fang",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "98F4F2C20201010101",
+      "name": "Treantbane Cleaver",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DAE3C2E40701010101",
+      "name": "Web bound Gauntlets",
+      "color": "#0C0"
+    }
+  ]
+}

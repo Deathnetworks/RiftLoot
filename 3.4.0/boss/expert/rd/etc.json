@@ -1,0 +1,66 @@
+{
+  "description": "Select an item",
+  "name": "Eliam the Corrupted",
+  "items": [
+    {
+      "IDKey": "8884D2D60301010101",
+      "name": "Blackheart Blade",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A3B2D84101010101",
+      "name": "Corrupted Chain Spaulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A3B9CA840201010101",
+      "name": "Corrupted Soul",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8E8C86AF0501010101",
+      "name": "Cover of Night",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "82F6E2D10401010101",
+      "name": "Crown of the Former King",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F3A7BEB70301010101",
+      "name": "Eyemangler",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AFA1EB800701010101",
+      "name": "Lost Favor",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ABA7A50B01010101",
+      "name": "Recipe: Bound Flame Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9ABEE2890501010101",
+      "name": "Reinforced Mechanic's Shoulder Guard",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D9BAF65601010101",
+      "name": "Runebinder",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E88CECB40601010101",
+      "name": "Suncrusher",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DB81E4F50101010101",
+      "name": "Uncorrupted Ruby Ring",
+      "color": "#AD48FB"
+    }
+  ]
+}

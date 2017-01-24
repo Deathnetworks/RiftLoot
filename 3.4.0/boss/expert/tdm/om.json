@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Overseer Markus",
+  "items": [
+    {
+      "IDKey": "9FFAA31801010101",
+      "name": "Ageless Steel Greaves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D4BC86DC0501010101",
+      "name": "Iron Toe Skull Stompers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E0D2C57901010101",
+      "name": "Lash Scepter",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8EEA923A01010101",
+      "name": "Overseer's Lightning Rod",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9DBEF5CB0701010101",
+      "name": "Overseer's Stash",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "91AAE30701010101",
+      "name": "Source Hewn Longbow",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BABBA83101010101",
+      "name": "The Final Word",
+      "color": "#267FFA"
+    }
+  ]
+}

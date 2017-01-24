@@ -1,0 +1,17 @@
+{
+    "description": "Select a boss",
+    "name": "Runic Descent (38-47)",
+    "items": [
+        {
+            "selector": "normal-rd-r",
+            "name" : "Rictus"
+        },{
+            "selector": "normal-rd-w",
+            "name" : "Wormwood"
+        },{
+            "selector": "normal-rd-wf",
+            "name" : "Warden Falidor"
+        },
+    ]
+
+}

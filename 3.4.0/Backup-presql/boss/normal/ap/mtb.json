@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Majolic the Bloodwalker",
+  "items": [
+    {
+      "IDKey": "D2A88A5401010101",
+      "name": "Blood Drinker",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F1A5EEBB0301010101",
+      "name": "Blood Soaked Buckler",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D0ABE08E0201010101",
+      "name": "Blood Soaked Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "94BB85FF0101010101",
+      "name": "Blood Soaked Guard",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8BB3CBE60601010101",
+      "name": "Blood Soaked Jewel",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "88AAB7900501010101",
+      "name": "Blood Soaked Mantle",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E5949EA30301010101",
+      "name": "Blood Soaked Pendant",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BBB296C20101010101",
+      "name": "Icebound Chain Spaulders",
+      "color": "#267FFA"
+    }
+  ]
+}

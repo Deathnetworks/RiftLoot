@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Manticores",
+  "items": [
+    {
+      "IDKey": "949B97960501010101",
+      "name": "Beast Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B9C3CFFC0701010101",
+      "name": "Eternal Protector's Greaves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F1BBA09F0301010101",
+      "name": "Hunter's Trophy",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C4A2FED30201010101",
+      "name": "Lion's Eye",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9D948ED40601010101",
+      "name": "Manticore Herder's Faceguard",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DB8F87C20401010101",
+      "name": "Ring of Evolution",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "87EC97C80601010101",
+      "name": "Scorpion's Sting",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B9BEFB990401010101",
+      "name": "Venom Charm",
+      "color": "#AD48FB"
+    }
+  ]
+}

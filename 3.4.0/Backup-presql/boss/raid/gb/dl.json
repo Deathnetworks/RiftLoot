@@ -1,0 +1,91 @@
+{
+  "description": "Select an item",
+  "name": "Duke Letareus",
+  "items": [
+    {
+      "IDKey": "89CEC3BB0201010101",
+      "name": "Ancestral Letareus Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "85CEC3BB0201010101",
+      "name": "Cultivating Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "83D892A20101010101",
+      "name": "Duke's Buckle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "88CEC3BB0201010101",
+      "name": "Duke's Signet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9496CBE90501010101",
+      "name": "Fae Mending Breeches",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8DCEC3BB0201010101",
+      "name": "Hunter's Pursuit",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "86CEC3BB0201010101",
+      "name": "Jungle Weaver's Mark",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F7B9B59E0201010101",
+      "name": "Letareus' Frenzy",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "87CEC3BB0201010101",
+      "name": "Loop of Fae Shadows",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8ACEC3BB0201010101",
+      "name": "Maul of Feral Instincts",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C9D1E4EA0601010101",
+      "name": "Pixie Charm Belt",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FE878D990201010101",
+      "name": "Pixie Snatchers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C7F4BEF50601010101",
+      "name": "Rejuvenating Bough",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8EF9DF990501010101",
+      "name": "Shambler Skin Tunic",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D084CD8A0401010101",
+      "name": "Slimy Shambler Stompers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8BCEC3BB0201010101",
+      "name": "Treant Heartwood Staff",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8CCEC3BB0201010101",
+      "name": "Whisperwood Edge",
+      "color": "#AD48FB"
+    }
+  ]
+}

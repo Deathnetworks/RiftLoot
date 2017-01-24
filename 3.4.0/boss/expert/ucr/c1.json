@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Cinderstorm",
+  "items": [
+    {
+      "IDKey": "9FCFC39C0201010101",
+      "name": "Enkindled Cuirass",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A9F1AADE0301010101",
+      "name": "Firestorm Wand",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D7EB999C0201010101",
+      "name": "Flameproof Footguards",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D0C6C3EB0101010101",
+      "name": "Hardened Runefire Greaves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A2BB93E30701010101",
+      "name": "Touch of Cinders",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B6BC8B840701010101",
+      "name": "Lil' Swagga",
+      "color": "#AD48FB"
+    }
+  ]
+}

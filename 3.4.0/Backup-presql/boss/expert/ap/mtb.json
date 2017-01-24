@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Majolic the Bloodwalker",
+  "items": [
+    {
+      "IDKey": "C9B5E3E30401010101",
+      "name": "Abyssal Hatchet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AEEDDCBB0201010101",
+      "name": "Bloodsoaked Slippers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CEE1B85301010101",
+      "name": "Bloodwalker's Sabatons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DC81E4F50101010101",
+      "name": "Bloodwalker's Signet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BEA0B16001010101",
+      "name": "Boots of Sacrifice",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F29496D00501010101",
+      "name": "Footpads of the Bloodwalker",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D3D8A01601010101",
+      "name": "Recipe: Incandescent Indomitable Runeshard",
+      "color": "#AD48FB"
+    }
+  ]
+}

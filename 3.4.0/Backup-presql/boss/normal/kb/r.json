@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Ravalos",
+  "items": [
+    {
+      "IDKey": "D9B2D6B70301010101",
+      "name": "Basilisk Slime Belt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "87F6FBDF0201010101",
+      "name": "Blood Covered Cowl",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "81F5AEA10601010101",
+      "name": "Coif of Ravalos Scales",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "94B89D3101010101",
+      "name": "Crystal Rage Bludgeon",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BDA9FEB70101010101",
+      "name": "Hardened Crystalline Girdle",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EADBA8CF0201010101",
+      "name": "Petrifying Glare Scepter",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9FD0D69B0301010101",
+      "name": "Polished Whitestone Aegis",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8E81BEB70701010101",
+      "name": "Unbreakable Bone Bulwark",
+      "color": "#267FFA"
+    }
+  ]
+}

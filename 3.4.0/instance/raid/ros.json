@@ -1,0 +1,23 @@
+{
+    "description": "Select a boss",
+    "name": "River of Souls",
+    "items": [
+        {
+            "selector": "raid-ros-wg",
+            "name" : "Warmaster Galenir"
+        },{
+            "selector": "raid-ros-df",
+            "name" : "Dark Focus"
+        },{
+            "selector": "raid-ros-hg",
+            "name" : "Herald Gaurath"
+        },{
+            "selector": "raid-ros-pti",
+            "name" : "Plutonus the Immortal"
+        },{
+            "selector": "raid-ros-atd",
+            "name" : "Alsbeth the Discordant"
+        }
+    ]
+
+}

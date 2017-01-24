@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Headhunter Kulir",
+  "items": [
+    {
+      "IDKey": "BDAAE4A10201010101",
+      "name": "Amulet of Sacrificial Offering",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A7BA8B6101010101",
+      "name": "Cinder Stompers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B2F2D37701010101",
+      "name": "Disciple's Ritual Cord",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "96D3B0920701010101",
+      "name": "Disciple's Wrath",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9CB89EE80501010101",
+      "name": "Phasewalking Sandals",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "999188FD0501010101",
+      "name": "The Headhunter",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FCABF83901010101",
+      "name": "Varash's Blood Drinker",
+      "color": "#AD48FB"
+    }
+  ]
+}

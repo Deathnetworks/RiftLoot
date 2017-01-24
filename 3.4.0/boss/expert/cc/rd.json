@@ -1,0 +1,31 @@
+{
+  "description": "Select an item",
+  "name": "Ryka Dharvos",
+  "items": [
+    {
+      "IDKey": "C4AF8BBD0401010101",
+      "name": "Band of Twisted Spines",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F6BB95FE0401010101",
+      "name": "Blade of Burden",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "81B79DAB0201010101",
+      "name": "Fang of the Naga",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A9C0DE820701010101",
+      "name": "Gold Tooth Locket",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8B88910901010101",
+      "name": "Wildwood Wand of Trickery",
+      "color": "#AD48FB"
+    }
+  ]
+}

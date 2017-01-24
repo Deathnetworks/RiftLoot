@@ -1,0 +1,21 @@
+{
+  "description": "Select an item",
+  "name": "Hookmaster Palos",
+  "items": [
+    {
+      "IDKey": "9CCAA36D01010101",
+      "name": "Cyclops Skin Trousers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8BBCF3EF0601010101",
+      "name": "Forged Spearbreaker",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C7F08B960701010101",
+      "name": "Palos's Shattered Handle",
+      "color": "#267FFA"
+    }
+  ]
+}

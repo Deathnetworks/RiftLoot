@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Zugthak",
+  "items": [
+    {
+      "IDKey": "90CCEA9E0501010101",
+      "name": "Giant Punters",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D8D580EA0401010101",
+      "name": "Giantbane Signet",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ED99A05E01010101",
+      "name": "Spirit Squasher",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CF9D8EAC0601010101",
+      "name": "Spiritguard Handwraps",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D6BEB4CA0501010101",
+      "name": "Trog bone Bow",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "889FE8870701010101",
+      "name": "Trog hide Cinch",
+      "color": "#267FFA"
+    }
+  ]
+}

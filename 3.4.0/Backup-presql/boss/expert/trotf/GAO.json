@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Grand Apiarist Orban",
+  "items": [
+    {
+      "IDKey": "EF8891A40701010101",
+      "name": "Autumn's Shroud",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A5D5EFC90701010101",
+      "name": "Fae Nectar Signet",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "93ADF0910101010101",
+      "name": "Hood of Icy Stares",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D3A8D8D20301010101",
+      "name": "Iron Seed Necklace",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FCA196F60501010101",
+      "name": "Nature's Reach",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D6A1F39C0601010101",
+      "name": "Orban's Wrath",
+      "color": "#267FFA"
+    }
+  ]
+}

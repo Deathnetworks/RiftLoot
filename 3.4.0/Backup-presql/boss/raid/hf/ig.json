@@ -1,0 +1,81 @@
+{
+  "description": "Select an item",
+  "name": "Inquisitor Garau",
+  "items": [
+    {
+      "IDKey": "93D3D9B30401010101",
+      "name": "Beacon of the Waterborne",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AC96BD2C01010101",
+      "name": "Crushing Depths",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8BA1ACC00601010101",
+      "name": "Deep Forged Bone Splitter",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9382DB0601010101",
+      "name": "Edge of Madness",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E4D69DD30401010101",
+      "name": "Garau's Claw",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8FDFF8DF0401010101",
+      "name": "Garau's Withering Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ACC393EE0101010101",
+      "name": "Golem Actuator",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D7E6A43501010101",
+      "name": "Golem Inductor",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E3C0C26101010101",
+      "name": "Ocean's Wrath",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F7ECE9840301010101",
+      "name": "Reinforced Construct Joint",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EB8FDE840701010101",
+      "name": "Ring of Tides",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DDF391B30501010101",
+      "name": "Sailor's Lament",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D9BBD68F0501010101",
+      "name": "Siren's Strike",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "89AE8DC30301010101",
+      "name": "Spark Coil Wand",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BFA0DAE20301010101",
+      "name": "Way of Water",
+      "color": "#AD48FB"
+    }
+  ]
+}

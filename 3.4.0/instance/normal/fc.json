@@ -1,0 +1,20 @@
+{
+    "description": "Select a boss",
+    "name": "Foul Cascade (28-37)",
+    "items": [
+        {
+            "selector": "normal-fc-css",
+            "name" : "Countess Surin Skenobar"
+        },{
+            "selector": "normal-fc-mv",
+            "name" : "Matron Verosa"
+        },{
+            "selector": "normal-fc-kb",
+            "name" : "Krasimir Barionov"
+        },{
+            "selector": "normal-fc-qv",
+            "name" : "Queen Vallnara"
+        }
+    ]
+
+}

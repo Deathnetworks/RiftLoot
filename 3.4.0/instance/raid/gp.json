@@ -1,0 +1,20 @@
+{
+    "description": "Select a boss",
+    "name": "Gilded Prophecy",
+    "items": [
+        {
+            "selector": "raid-gp-atf",
+            "name" : "Anrak the Foul"
+        }, {
+            "selector": "raid-gp-g",
+            "name" : "Guurloth"
+        }, {
+            "selector": "raid-gp-t",
+            "name" : "Thalguur"
+        }, {
+            "selector": "raid-gp-u",
+            "name" : "Uruluuk"
+        }
+    ]
+
+}

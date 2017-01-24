@@ -1,0 +1,20 @@
+{
+    "description": "Select a boss",
+    "name": "The Deepstrike Mines (24-31)",
+    "items": [
+        {
+            "selector": "normal-tdm-om",
+            "name" : "Overseer Markus"
+        },{
+            "selector": "normal-tdm-gk",
+            "name" : "Gregori Krezlav"
+        },{
+            "selector": "normal-tdm-btt",
+            "name" : "Bonehew the Thunderer"
+        },{
+            "selector": "normal-tdm-gk2",
+            "name" : "Gatekeeper Kaleida"
+        }
+    ]
+
+}

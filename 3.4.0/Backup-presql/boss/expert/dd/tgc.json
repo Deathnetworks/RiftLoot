@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "The Gedlo Council",
+  "items": [
+    {
+      "IDKey": "98E2A7AF0601010101",
+      "name": "Breeches of the Incinerator",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "96BEE2890501010101",
+      "name": "Councillor's Fine Leather Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C5F5D0C90701010101",
+      "name": "Gedlo Coulcillor's Gavel",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E8E5F4820101010101",
+      "name": "Gedlo Dragon Hunter's Bow",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8CC596A60501010101",
+      "name": "High Shaman's Legguards",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "94DABCBD0701010101",
+      "name": "Leggings of the Hidden Gedlo",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "92FAB67901010101",
+      "name": "Recipe: Glossy Steel Helm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FA99FBEE0201010101",
+      "name": "Wargreaves of the Fist",
+      "color": "#267FFA"
+    }
+  ]
+}

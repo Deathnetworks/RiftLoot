@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Rictus",
+  "items": [
+    {
+      "IDKey": "98BEE2890501010101",
+      "name": "Ancient Mechanic's Trousers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E5F4E48F0101010101",
+      "name": "Dull Slicer of Malice",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A3FAF4EA0201010101",
+      "name": "Emblazoned Rod",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DBC093950101010101",
+      "name": "Oil Stained Helm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E5FCF5EB0401010101",
+      "name": "Song of Lost Souls",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "86B786FC0101010101",
+      "name": "Twisted Dirk of the Arcane",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8390A9D30601010101",
+      "name": "Wand of Mercy",
+      "color": "#267FFA"
+    }
+  ]
+}

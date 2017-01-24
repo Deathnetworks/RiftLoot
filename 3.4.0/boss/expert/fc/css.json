@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Countess Surin Skenobar",
+  "items": [
+    {
+      "IDKey": "9B86C5E50101010101",
+      "name": "Black Heart Locket",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CDE082C80701010101",
+      "name": "Blinding Gem",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FE9EB6A70601010101",
+      "name": "Dark Smoke Coif",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A7D79EF40601010101",
+      "name": "Recipe: Conditioned Leather Shoulder Guard",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DAD3C7D90101010101",
+      "name": "Rock Crusher Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FA99CDE20501010101",
+      "name": "Thunder Maker",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F6AC95CF0501010101",
+      "name": "Trigger Finger",
+      "color": "#AD48FB"
+    }
+  ]
+}

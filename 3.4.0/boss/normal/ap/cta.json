@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Calyx the Ancient",
+  "items": [
+    {
+      "IDKey": "E2DBA3F40601010101",
+      "name": "Dark Fathom Robes",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D7A0C99B0101010101",
+      "name": "Dragon HideTunic",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E49FEDDF0501010101",
+      "name": "Dread of Akylios",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FEF5B7D10401010101",
+      "name": "Ice Mail Hauberk",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B1FBCC860401010101",
+      "name": "Runescribe Axe",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8DD4DBAD0101010101",
+      "name": "Runescribe Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CDEFA3A70101010101",
+      "name": "Runescribe Pauldrons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D4EE3601010101",
+      "name": "Runescribe Spaulders",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F1E6FFD90101010101",
+      "name": "Titan Bone Staff",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AD82D69D0601010101",
+      "name": "World Breaker",
+      "color": "#267FFA"
+    }
+  ]
+}

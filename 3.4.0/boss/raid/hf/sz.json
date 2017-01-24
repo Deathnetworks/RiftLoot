@@ -1,0 +1,81 @@
+{
+  "description": "Select an item",
+  "name": "Soulrender Zilas",
+  "items": [
+    {
+      "IDKey": "D8F089EC0701010101",
+      "name": "Cinch of the Soulrender",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ECE4B2A50701010101",
+      "name": "Death Walker Greaves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ADADE6AD0301010101",
+      "name": "Fallen Runemaster's Cowl",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AAF0E8FB0501010101",
+      "name": "Hood of Dark Visions",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B6F5C5C90601010101",
+      "name": "Loop of Lost Souls",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B8A4E8940701010101",
+      "name": "Pauldrons of Trapped Souls",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CCCBC14701010101",
+      "name": "Rune etched Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D7C6EFDA0301010101",
+      "name": "Runeburst Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C192BF8B0701010101",
+      "name": "Runeforged Spaulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F0DF998C0301010101",
+      "name": "Soul stitch Treads",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DCDEC75201010101",
+      "name": "Soulfury",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C1F2E9C50401010101",
+      "name": "Soulpyre",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9BC482CA0601010101",
+      "name": "Soulrender's Binding",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CF9CC6B30101010101",
+      "name": "Soulrending Grips",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D6848ED40101010101",
+      "name": "Soultaker",
+      "color": "#AD48FB"
+    }
+  ]
+}

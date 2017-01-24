@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "General Silgen",
+  "items": [
+    {
+      "IDKey": "CEACE52001010101",
+      "name": "Blazeguard Gloves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E1AA99AC0201010101",
+      "name": "Embermail Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A5B781AF0301010101",
+      "name": "Embermail Girdle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C7B9B2CA0401010101",
+      "name": "Fire Agate Loop",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B8DBDCC40601010101",
+      "name": "Flametouched Cowl",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E5E0D9D70201010101",
+      "name": "General Silgen's Crown",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C7C4C0D10201010101",
+      "name": "Robe of the Living Flame",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CAD3C47201010101",
+      "name": "Smoldersteel Coif",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "84BBD1920701010101",
+      "name": "Wildfire Plate Girdle",
+      "color": "#AD48FB"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "description": "Select an item",
+  "name": "Alsbeth the Discordant",
+  "items": [
+    {
+      "IDKey": "A5D7F3860601010101",
+      "name": "Aegis of Souls",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "8498E83601010101",
+      "name": "Alsbeth's Focusing Orb",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AFD4DB0301010101",
+      "name": "Bulwark of Undeath",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C8C9E1F80201010101",
+      "name": "Dark Fist of Nysyr",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "B6B1A68E0701010101",
+      "name": "Dark Shadow Leggings",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9BBFD8AD0701010101",
+      "name": "Darkling Skull",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "F3FABF970101010101",
+      "name": "Death's Grip",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E6FAA15001010101",
+      "name": "Discordant Greathelm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BA95CEBA0201010101",
+      "name": "Mantle of the Destroyer",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F2DAF9960301010101",
+      "name": "Necroplate Bulwark",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A1FAB7A80301010101",
+      "name": "Necrotic Ward",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "D293D0FF0501010101",
+      "name": "Night's Breath",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "DF898BEA0601010101",
+      "name": "Scorching Blade of Talos",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "AA82DAF50501010101",
+      "name": "Seething Bone Shard",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "8ECAB1E00101010101",
+      "name": "Staff of the Inevitable",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "DFFFA1F40201010101",
+      "name": "The Soul Reaper",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "96CBBB4E01010101",
+      "name": "The Weeping Edge",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "D193D0FF0501010101",
+      "name": "Thoughtslayer",
+      "color": "#FF8000"
+    },
+    {
+      "IDKey": "AED4DB0301010101",
+      "name": "Token of Stolen Souls",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FBEA8C7E01010101",
+      "name": "Token of Warding",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BEB391D70201010101",
+      "name": "Treads of the Fallen",
+      "color": "#AD48FB"
+    }
+  ]
+}

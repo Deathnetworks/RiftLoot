@@ -1,0 +1,81 @@
+{
+  "description": "Select an item",
+  "name": "Matron Zamira",
+  "items": [
+    {
+      "IDKey": "E9E899D80101010101",
+      "name": "Blackened Gloomsteel Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B9F8C59F0701010101",
+      "name": "Censer of the Unholy",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C4D3EFDD0201010101",
+      "name": "Cowl of Blackest Night",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9BA999EB0701010101",
+      "name": "Duskwalker Sabatons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E7BBF6FD0401010101",
+      "name": "Gauntlets of Unholy Birth",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DBC88CB00601010101",
+      "name": "Girdle of Foul Births",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CCAEDFA30101010101",
+      "name": "Gloomsteel Greathelm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ECECAFE00701010101",
+      "name": "Matron's Dark Mantle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C7D1972E01010101",
+      "name": "Midnight Ripper",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A2C1B93601010101",
+      "name": "Midnight's Edge",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A0F0FD2401010101",
+      "name": "Nightfall Handguards",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8CA7B4CF0501010101",
+      "name": "Nightmare Shoulderguards ",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C392FFFF0101010101",
+      "name": "Spiked Obsidian Loop",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E49AA6DD0101010101",
+      "name": "Treads of Darkness",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EEA1E7C10201010101",
+      "name": "Viscous Deflection Belt",
+      "color": "#AD48FB"
+    }
+  ]
+}

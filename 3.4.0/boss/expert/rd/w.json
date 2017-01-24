@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Wormwood",
+  "items": [
+    {
+      "IDKey": "AA93E8950701010101",
+      "name": "Barkscale Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AC9AD9F70501010101",
+      "name": "Barkskin Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "84DCEECA0701010101",
+      "name": "Greaves of Fallow Earth",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C48BC39B0101010101",
+      "name": "Heartwood Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ABE185ED0101010101",
+      "name": "Legguards of Fallen Fae",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "97C5B6A20601010101",
+      "name": "Loop of the Dangerous",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FEE8AAAD0301010101",
+      "name": "Silkweave Pantaloons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "96E3E6930501010101",
+      "name": "The Helm of Freemarch",
+      "color": "#267FFA"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "Select a boss",
+    "name": "The Iron Tomb",
+    "items": [
+        {
+            "selector": "expert-tit-ca",
+            "name" : "Caor Ashstone"
+        },
+        {
+            "selector": "expert-tit-bv",
+            "name" : "Broodmother Venoxa"
+        },
+        {
+            "selector": "expert-tit-ttk",
+            "name" : "The Three Kings"
+        },
+        {
+            "selector": "expert-tit-bf",
+            "name" : "Bonelord Fetlorn"
+        },
+        {
+            "selector": "expert-tit-rtd",
+            "name" : "Ragnoth the Despoiler"
+        },
+        {
+            "selector": "expert-tit-tta",
+            "name" : "Totek the Ancient"
+        }
+    ]
+
+}

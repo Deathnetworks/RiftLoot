@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Jultharin",
+  "items": [
+    {
+      "IDKey": "A2E0EE4501010101",
+      "name": "Ancient Stormbound Longsword",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E8CABA8A0201010101",
+      "name": "Choker of Howling Winds",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A4FFDEE90101010101",
+      "name": "Djinni's Claymore",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ACA994A10601010101",
+      "name": "Fire Pearl Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A9D79EF40601010101",
+      "name": "Recipe: Conditioned Leather Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "91FAB67901010101",
+      "name": "Recipe: Implacable Steel Greaves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B9C0DE5801010101",
+      "name": "Savage Windloop",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "98FC8F2B01010101",
+      "name": "Staff of the Winds",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DD81E4F50101010101",
+      "name": "Storm Crystal Ring",
+      "color": "#AD48FB"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "description": "Select a boss",
+    "name": "Darkening Deeps",
+    "items": [
+        {
+            "selector": "master-dd-ab",
+            "name" : "Alchemist Braxtepel"
+        },{
+            "selector": "master-dd-mb",
+            "name" : "Michael Bringhurst"
+        },{
+            "selector": "master-dd-td",
+            "name" : "Tegenar Deepfang"
+        },{
+            "selector": "master-dd-tgc",
+            "name" : "The Gedlo Council"
+        },{
+            "selector": "master-dd-g",
+            "name" : "Glubmuk"
+        },{
+            "selector": "master-dd-s",
+            "name" : "Scarn"
+        },{
+            "selector": "master-dd-ev",
+            "name" : "Emissary Villizar"
+        }
+    ]
+
+}

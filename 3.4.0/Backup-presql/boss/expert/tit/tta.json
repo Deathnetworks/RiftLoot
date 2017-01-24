@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Totek the Ancient",
+  "items": [
+    {
+      "IDKey": "B0B09BD20701010101",
+      "name": "Ageless Pauldrons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BEE9B7E10601010101",
+      "name": "Bulwark of Boundless Power",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9AEDCFD90201010101",
+      "name": "Deathblood Dirk",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B2B09BD20701010101",
+      "name": "Despoiled Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A6CF82C90201010101",
+      "name": "Novastrike Magus's Trousers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A49A8C820501010101",
+      "name": "Will of Totek",
+      "color": "#AD48FB"
+    }
+  ]
+}

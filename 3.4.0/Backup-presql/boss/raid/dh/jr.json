@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Joloral Ragetide",
+  "items": [
+    {
+      "IDKey": "D2F2E08C0701010101",
+      "name": "Band of Abyssal Fury",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D2C0E5BA0301010101",
+      "name": "Crippler of the Tides",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D09A9EE00201010101",
+      "name": "Gauntlets of Abyssal Pain",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9DC1BFC50201010101",
+      "name": "Joloral's Neck Guard",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D0DBDDFF0501010101",
+      "name": "Joloral's Talon",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "95D6BED50201010101",
+      "name": "Medallion of Abyssal Wrath",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EEBBD9C70501010101",
+      "name": "Predator's Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C7D6CEB40501010101",
+      "name": "Ragetide Robes",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C2E997D80201010101",
+      "name": "Shell Encrusted Bow",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C687C3F00201010101",
+      "name": "Wave Crasher Legplates",
+      "color": "#AD48FB"
+    }
+  ]
+}

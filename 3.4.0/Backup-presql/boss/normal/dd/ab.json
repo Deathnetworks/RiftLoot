@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Alchemist Braxtepel",
+  "items": [
+    {
+      "IDKey": "CA9AC9E20201010101",
+      "name": "Acid scorched Hood",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E2E0D58D0401010101",
+      "name": "Braxtepel's Crucible",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B392AAEE0601010101",
+      "name": "Darksight Rifle",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D4C2FE0E01010101",
+      "name": "Deepwood Axe",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "C0EAFAC70601010101",
+      "name": "Molten Chain Leg Guards",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9ED68EDF0601010101",
+      "name": "Pendant of Wanton Fury",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FFEAD7A20701010101",
+      "name": "Silkweb Handwraps",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "9B9A8D5101010101",
+      "name": "Wildforged Bastion",
+      "color": "#267FFA"
+    }
+  ]
+}

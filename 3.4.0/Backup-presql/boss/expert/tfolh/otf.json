@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Oludare the Firehoof",
+  "items": [
+    {
+      "IDKey": "DAA7AE0601010101",
+      "name": "Blood Drinker",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CFC2D1820701010101",
+      "name": "Boots of Burning Wrath",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DD92E5860201010101",
+      "name": "Cat Clawed Bracers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9190E0BA0301010101",
+      "name": "Dark Tread Slippers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "83CB9BF70401010101",
+      "name": "Devil's Teeth",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B7A7F4A80701010101",
+      "name": "Flame Hoof Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FBA1E2DA0601010101",
+      "name": "Litter Kickers",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B3CECB2C01010101",
+      "name": "Malformed Soul",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E58BC5920701010101",
+      "name": "Raging Stampede",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9285EDA80101010101",
+      "name": "Recipe: Dark Iron Hauberk",
+      "color": "#AD48FB"
+    }
+  ]
+}

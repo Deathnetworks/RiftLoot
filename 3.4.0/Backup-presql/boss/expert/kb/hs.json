@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Hunter Suleng",
+  "items": [
+    {
+      "IDKey": "E2B1D4D40301010101",
+      "name": "Lich skin Jerkin",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FACEDE6B01010101",
+      "name": "Life Seed Necklace",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C185ECED0401010101",
+      "name": "Night Oil Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8298AEB70201010101",
+      "name": "Reaper's Touch",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "928DBBD20301010101",
+      "name": "Spine Flower",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EF89A68B0601010101",
+      "name": "Spirit Wolf Totem",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A3D2CBF90501010101",
+      "name": "Wall of Thorns",
+      "color": "#267FFA"
+    }
+  ]
+}

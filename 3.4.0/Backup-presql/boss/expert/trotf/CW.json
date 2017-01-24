@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Chillblains Winterfrost",
+  "items": [
+    {
+      "IDKey": "AAC0B6EB0401010101",
+      "name": "Blizzard's Bane",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EFF1CBB90201010101",
+      "name": "Chillblains' Tears",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C7B4C4C10301010101",
+      "name": "Cowl of Fae Secrets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B8AC9CAC0301010101",
+      "name": "Everfrost",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E8B089C50501010101",
+      "name": "Frost Silk Sash",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B9E0B8D60101010101",
+      "name": "Recipe: Blazing Savvy Runeshard",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A6FDFAB70201010101",
+      "name": "Thirty Below",
+      "color": "#267FFA"
+    }
+  ]
+}

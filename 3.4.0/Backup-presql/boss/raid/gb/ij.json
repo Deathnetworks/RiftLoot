@@ -1,0 +1,81 @@
+{
+  "description": "Select an item",
+  "name": "Infiltrator Johlen",
+  "items": [
+    {
+      "IDKey": "C5C08EBE0701010101",
+      "name": "Charred Pauldrons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "88B4C40B01010101",
+      "name": "Defusing Gloves",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "93FECFA50101010101",
+      "name": "Emerald Dawn",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8EFECFA50101010101",
+      "name": "Emerald Edge",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8FFECFA50101010101",
+      "name": "Infiltrator's Fury",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EE89FC8D0301010101",
+      "name": "Infiltrator's Ordinance Belt",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ADA1D4F80301010101",
+      "name": "Johlen's Ballistic Vest",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8EFBDBC60101010101",
+      "name": "Johlen's Radiance",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "95FECFA50101010101",
+      "name": "Royal Assassin's Rifle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DAA6984E01010101",
+      "name": "Shrapnel etched Legplates",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8BE39DB10201010101",
+      "name": "Singed Hood",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "92FECFA50101010101",
+      "name": "Verdant Combustion Wand",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "90FECFA50101010101",
+      "name": "Verdant Slayer",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "94FECFA50101010101",
+      "name": "Viridian Musket",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "91FECFA50101010101",
+      "name": "Wand of Rampant Life",
+      "color": "#AD48FB"
+    }
+  ]
+}

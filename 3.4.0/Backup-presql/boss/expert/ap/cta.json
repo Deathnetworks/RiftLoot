@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Calyx the Ancient",
+  "items": [
+    {
+      "IDKey": "A3B9CA840201010101",
+      "name": "Corrupted Soul",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FE8180D10401010101",
+      "name": "Glob of Crystallized Blood",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C9EEF0890301010101",
+      "name": "Icerot Stave",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8F83FA3401010101",
+      "name": "Insanity Sliver",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DEDD85DA0201010101",
+      "name": "Kaler's Copper Band of Fortitude",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C4F3A4980101010101",
+      "name": "Mace of Frozen Power",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9FA092BD0501010101",
+      "name": "Majolic's Bloodied Stiletto",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8DFAB67901010101",
+      "name": "Recipe: Night Iron Sabatons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9FF6C44D01010101",
+      "name": "Tidal Deepcleaver",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B4EC9A1E01010101",
+      "name": "Unnatural Legguards",
+      "color": "#AD48FB"
+    }
+  ]
+}

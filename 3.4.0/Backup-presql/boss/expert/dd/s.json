@@ -1,0 +1,71 @@
+{
+  "description": "Select an item",
+  "name": "Scarn",
+  "items": [
+    {
+      "IDKey": "9CB2D84101010101",
+      "name": "Alchemically Treated Hauberk",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A6C3E8FA0401010101",
+      "name": "Ancient Malphigian Gorget",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BAEAAAAC0501010101",
+      "name": "Cinder forged Gauntlets",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A3B9CA840201010101",
+      "name": "Corrupted Soul",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D881E4F50101010101",
+      "name": "Crackling Dragonscale Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EBA288C50501010101",
+      "name": "Deciduous Dragon Tooth",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "82D49CC70701010101",
+      "name": "Enthalpy",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E8A681A40201010101",
+      "name": "Entropy",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D981E4F50101010101",
+      "name": "Gedlo Signet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "838A9D960101010101",
+      "name": "Neckguard of the Weaver",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CE918CDB0201010101",
+      "name": "Recipe: Blazing Resolute Rune",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A5D79EF40601010101",
+      "name": "Recipe: Darkcloth Shroud",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B0A6AC820201010101",
+      "name": "Recipe: Spark Smiter",
+      "color": "#267FFA"
+    }
+  ]
+}

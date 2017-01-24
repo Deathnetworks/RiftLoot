@@ -1,0 +1,26 @@
+{
+    "description": "Select an item",
+    "name": "Caor Ashstone",
+    "items": [
+        {
+            "IDKey": "B8F6EBF60101010101",
+            "name" : "Death Whisper Treads",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "F9A2A07701010101",
+            "name":"Footpads of Restless Dead",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "EFBDA39B0101010101",
+            "name":"Shade Tarnished Girdle",
+            "color": "#267FFA" 
+        },
+        {
+            "IDKey": "B6999EC50301010101",
+            "name":"Tomb Mason's Satchel",
+            "color": "#267FFA" 
+        }
+    ]
+}

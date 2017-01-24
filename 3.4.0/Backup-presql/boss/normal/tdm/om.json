@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Overseer Markus",
+  "items": [
+    {
+      "IDKey": "B4E2BEB30601010101",
+      "name": "Deepstrike Longbow",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "98D2CFEC0101010101",
+      "name": "Heavy Steel Loop",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "958EF3D80201010101",
+      "name": "Lodestone Spaulders",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "93DCFEE70101010101",
+      "name": "Mantle of the Overseer",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C3D981F70301010101",
+      "name": "Miner's Toolbelt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DFC0BFE60601010101",
+      "name": "Overseer's Binding",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "89D0DAD30401010101",
+      "name": "Rune Etched Band",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "EED0EAD70401010101",
+      "name": "Source fused Crystal",
+      "color": "#267FFA"
+    }
+  ]
+}

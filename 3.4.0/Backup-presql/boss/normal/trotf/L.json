@@ -1,0 +1,21 @@
+{
+    "description": "Select an item",
+    "name": "Luggodhan",
+    "items": [
+        {
+            "IDKey": "A5C2DEA40701010101",
+            "name" : "Algae Coated Buckler",
+            "color" : "#267FFA" 
+        },
+        {
+            "IDKey": "BFE1BE810401010101",
+            "name":"Bile Stained Boots",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "B6F3FDC90501010101",
+            "name":"Mostly Digested Cord",
+            "color": "#267FFA"
+        }
+    ]
+}

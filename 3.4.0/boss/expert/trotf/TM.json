@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Trickster Maelow",
+  "items": [
+    {
+      "IDKey": "91948ED40601010101",
+      "name": "Fae Chain Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C6E8E5F90201010101",
+      "name": "Faewood Greatstaff",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EDB1D4D40301010101",
+      "name": "Glittering Fae Epaulettes",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B7D6FAC20601010101",
+      "name": "Grove Stalker Spaulders",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C18682B90201010101",
+      "name": "Hedge Guard Pauldrons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "99FEBAC30101010101",
+      "name": "Lifeward's Bauble",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CD918CDB0201010101",
+      "name": "Recipe: Blazing Adamant Rune",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DF80C99E0601010101",
+      "name": "Shield of the Broken Heart",
+      "color": "#267FFA"
+    }
+  ]
+}

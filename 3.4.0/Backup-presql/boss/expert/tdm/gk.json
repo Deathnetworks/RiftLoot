@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Gregori Krezlav",
+  "items": [
+    {
+      "IDKey": "ECEED0F40701010101",
+      "name": "Blood Rune Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ACAFA9860701010101",
+      "name": "Bone Craft Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DA9FC6870701010101",
+      "name": "Deathly Grips",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "99BEE2890501010101",
+      "name": "Deepdelve Trousers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C09AEFE60101010101",
+      "name": "Hauberk of Deep Delving",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C398B7A40701010101",
+      "name": "Reaper's Bracers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "83CBDECF0201010101",
+      "name": "Wall of Bones",
+      "color": "#AD48FB"
+    }
+  ]
+}

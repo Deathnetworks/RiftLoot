@@ -1,0 +1,21 @@
+{
+    "description": "Select an item",
+    "name": "Ragnoth the Despoiler",
+    "items": [
+        {
+            "IDKey": "A09BA4A40301010101",
+            "name" : "Demonguard Bulwark",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "86A7BB4B01010101",
+            "name":"Despoiler's Tome",
+            "color": "#267FFA" 
+        },
+        {
+            "IDKey": "F499A6D60501010101",
+            "name":"Ragnoth's Shadow Ripper",
+            "color": "#267FFA" 
+        }
+    ]
+}

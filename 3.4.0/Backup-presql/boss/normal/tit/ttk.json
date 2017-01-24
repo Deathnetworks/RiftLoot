@@ -1,0 +1,21 @@
+{
+    "description": "Select an item",
+    "name": "The Three Kings",
+    "items": [
+        {
+            "IDKey": "EFE3F46701010101",
+            "name" : "Gloves of the Magus King",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "E49DF5F10601010101",
+            "name":"Laric's Righteous Fists",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "C4FD97D40701010101",
+            "name":"Waistguard of the Bold",
+            "color": "#267FFA"
+        }
+    ]
+}

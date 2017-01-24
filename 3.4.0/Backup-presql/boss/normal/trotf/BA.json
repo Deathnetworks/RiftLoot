@@ -1,0 +1,26 @@
+{
+    "description": "Select an item",
+    "name": "Battlemaster Atrophinius",
+    "items": [
+        {
+            "IDKey": "DBA7A0FB0701010101",
+            "name" : "Battlemaster's Sack",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "94E0EFFE0101010101",
+            "name":"Gloves of Drunken Rage",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "CEFDAFB60301010101",
+            "name":"Mead Sticky Handwraps",
+            "color": "#267FFA"
+        },
+        {
+            "IDKey": "95A09FC10401010101",
+            "name":"Prod of Atrophinius",
+            "color": "#267FFA"
+        }
+    ]
+}

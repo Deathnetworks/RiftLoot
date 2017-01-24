@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Captain Black Spit",
+  "items": [
+    {
+      "IDKey": "A4CCA28B0201010101",
+      "name": "Bile corroded Chestguard",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B7C3EDDB0501010101",
+      "name": "Black Chain Breeches",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AF8AB6A90301010101",
+      "name": "Black Spit's Blade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "86D8F2990401010101",
+      "name": "Black Spit's Mixing Rod",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BFA3E4F40201010101",
+      "name": "Crystalized Goblin Phlegm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "99BA83DA0301010101",
+      "name": "Cyclops Eye Gorget",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8FA9D6B10501010101",
+      "name": "Grog stained Bracers",
+      "color": "#267FFA"
+    }
+  ]
+}

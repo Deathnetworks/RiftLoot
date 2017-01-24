@@ -1,0 +1,50 @@
+{
+  "description": "Select a boss",
+  "name": "Hammerknell Fortress",
+  "items": [
+    {
+      "selector": "raid-hf-m",
+      "name": "Murdantix"
+    },
+    {
+      "selector": "raid-hf-mz",
+      "name": "Matron Zamira"
+    },
+    {
+      "selector": "raid-hf-s",
+      "name": "Sicaron"
+    },
+    {
+      "selector": "raid-hf-sz",
+      "name": "Soulrender Zilas"
+    },
+    {
+      "selector": "raid-hf-g",
+      "name": "Grugonim"
+    },
+    {
+      "selector": "raid-hf-rkm",
+      "name": "Rune King Molinar"
+    },
+    {
+      "selector": "raid-hf-vp",
+      "name": "Vladmal Prime"
+    },
+    {
+      "selector": "raid-hf-e",
+      "name": "Estrode"
+    },
+    {
+      "selector": "raid-hf-ig",
+      "name": "Inquisitor Garau"
+    },
+    {
+      "selector": "raid-hf-id",
+      "name": "Inwar Darktide"
+    },
+    {
+      "selector": "raid-hf-a",
+      "name": "Akylios"
+    }
+  ]
+}

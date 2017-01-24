@@ -1,0 +1,31 @@
+{
+  "description": "Select an item",
+  "name": "Emissary Villizar",
+  "items": [
+    {
+      "IDKey": "C1FBD8C20501010101",
+      "name": "Amulet of the Harvest Moon",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C2D0929F0301010101",
+      "name": "Enchanted Goblin Kuckle Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BCF9E2B50701010101",
+      "name": "Gem of the Goblin Horde",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D3CCDCDC0301010101",
+      "name": "Kityk, Villizar's Parrying Blade",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F9DEC7D40301010101",
+      "name": "Pristine Goblin's Neckguard",
+      "color": "#AD48FB"
+    }
+  ]
+}

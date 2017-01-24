@@ -1,0 +1,61 @@
+{
+  "description": "Select an item",
+  "name": "Caelia the Stormtouched",
+  "items": [
+    {
+      "IDKey": "BFB2D29B0201010101",
+      "name": "Feathersteel Hatchet",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C6C8C4F30401010101",
+      "name": "Feathersteel Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8BDB998A0701010101",
+      "name": "Lore of the Stormcaster",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A883C9980201010101",
+      "name": "Mountain Copper Necklace",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AF869ADD0601010101",
+      "name": "Smoldering Sabatons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AB9E91F80401010101",
+      "name": "Stormcaster's Headdress ",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A09FA0AC0701010101",
+      "name": "Stormetched Blade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8AECB67701010101",
+      "name": "Stormleather Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A1BFD1810401010101",
+      "name": "Stormtouched Girdle",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9FDBB5C20701010101",
+      "name": "Stormtouched Greaves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ACDEFAEC0301010101",
+      "name": "Stormtouched Mantle",
+      "color": "#267FFA"
+    }
+  ]
+}

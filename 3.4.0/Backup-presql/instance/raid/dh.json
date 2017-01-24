@@ -1,0 +1,20 @@
+{
+    "description": "Select a boss",
+    "name": "Drowned Halls",
+    "items": [
+        {
+            "selector": "raid-dh-acj",
+            "name" : "Assault Commander Jorb"
+        },{
+            "selector": "raid-dh-jr",
+            "name" : "Joloral Ragetide"
+        },{
+            "selector": "raid-dh-i",
+            "name" : "Isskal"
+        },{
+            "selector": "raid-dh-hph",
+            "name" : "High Priestess Hydriss"
+        }
+    ]
+
+}

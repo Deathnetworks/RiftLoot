@@ -1,0 +1,31 @@
+{
+  "description": "Select an item",
+  "name": "Ashcaller Zael",
+  "items": [
+    {
+      "IDKey": "EF83C6C50201010101",
+      "name": "Amulet of Burning Intellect",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AAA0E9AE0101010101",
+      "name": "Belt of Burning Rage",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C8B0F6E00401010101",
+      "name": "Incendiary Band",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E3F790E90301010101",
+      "name": "Molten Forged Cuirass",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FBBED39C0601010101",
+      "name": "Molten Forged Leggings",
+      "color": "#267FFA"
+    }
+  ]
+}

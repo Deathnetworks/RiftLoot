@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Assault Commander Jorb",
+  "items": [
+    {
+      "IDKey": "CAB2EE6601010101",
+      "name": "Amphibious Assault Hauberk",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E0DCD4CD0101010101",
+      "name": "Eye of the Hurricane",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F4E8D4B10701010101",
+      "name": "Hightide Boots",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DCFBD8810401010101",
+      "name": "Jorb's Hacking Steel",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BD9C8A7201010101",
+      "name": "Mariner's Hand Cannon",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ACF8F2FD0601010101",
+      "name": "Riptide Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "84FDC1C40501010101",
+      "name": "Sea Squall Pauldrons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DBFC958A0201010101",
+      "name": "Sobek Skin Legguards",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F28789ED0601010101",
+      "name": "Sobek Tooth Torc",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EDCBAAAB0301010101",
+      "name": "The Abyssal General's Insignia",
+      "color": "#AD48FB"
+    }
+  ]
+}

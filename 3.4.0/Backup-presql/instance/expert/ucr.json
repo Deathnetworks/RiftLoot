@@ -1,0 +1,26 @@
+{
+    "description": "Select a boss",
+    "name": "Upper Caduceus Rise",
+    "items": [
+        {
+            "selector": "expert-ucr-z",
+            "name" : "Zugthak"
+        },{
+            "selector": "expert-ucr-r",
+            "name" : "Rodiafel"
+        },{
+            "selector": "expert-ucr-cbs",
+            "name" : "Captain Black Spit"
+        },{
+            "selector": "expert-ucr-c1",
+            "name" : "Cinderstorm"
+        },{
+            "selector": "expert-ucr-hk",
+            "name" : "Headhunter Kulir"
+        },{
+            "selector": "expert-ucr-c2",
+            "name" : "Caduceus"
+        }
+    ]
+
+}

@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Cyclorax",
+  "items": [
+    {
+      "IDKey": "ACE995CD0201010101",
+      "name": "Charged Static Handwraps",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "97A9B2C40701010101",
+      "name": "Cyclonic Ringmail Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "91B3A7AB0601010101",
+      "name": "Signet of Cyclorax",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C2D0E3DA0701010101",
+      "name": "Whirlwind Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D0E690D10201010101",
+      "name": "Windblown Handgrips",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9AB2D84101010101",
+      "name": "Windborne Steel Hauberk",
+      "color": "#267FFA"
+    }
+  ]
+}

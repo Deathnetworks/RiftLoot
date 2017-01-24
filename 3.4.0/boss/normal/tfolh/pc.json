@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Pyromaster Cortilnald",
+  "items": [
+    {
+      "IDKey": "EFAFC3F20501010101",
+      "name": "Cleaver of Burning Rage",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8186AC7901010101",
+      "name": "Conflagration Cover",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A8DED9DD0401010101",
+      "name": "Cortilnald's Smoking Slippers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A5EE919B0701010101",
+      "name": "Faceguard of the Pyre",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EAFBAFC10101010101",
+      "name": "Luminous Flametreads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "88F087A00601010101",
+      "name": "Talisman of Charred Blood",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CBC1A48C0701010101",
+      "name": "Tempered Magma Loop",
+      "color": "#267FFA"
+    }
+  ]
+}

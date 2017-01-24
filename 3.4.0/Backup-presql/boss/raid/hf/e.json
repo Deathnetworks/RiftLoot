@@ -1,0 +1,81 @@
+{
+  "description": "Select an item",
+  "name": "Estrode",
+  "items": [
+    {
+      "IDKey": "CBEEAE8E0701010101",
+      "name": "Amulet of Recrimination",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CBB3DE5601010101",
+      "name": "Barrier of Manipulation",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "90D7ECBE0501010101",
+      "name": "Chain Tunic of Avarice",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FF91954D01010101",
+      "name": "Chestplate of Hidden Plans",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E8FA8CCE0101010101",
+      "name": "Deceiving Legguards",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E2B7BCFC0501010101",
+      "name": "Engraved Beguiling Staff",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D9EE9BED0301010101",
+      "name": "Estrode's Nimble Legwraps",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8B9FF5860601010101",
+      "name": "Estrode's Ritual Cuirass",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C9EEAE8E0701010101",
+      "name": "Estrode's Stolen Adornment",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CDEEAE8E0701010101",
+      "name": "Gorget of Lies",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "CCCFDFF60601010101",
+      "name": "Greatsword of Ancient Betrayal",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8DDFF8DF0401010101",
+      "name": "Jagged Loop of Coercion",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ECAAE7C20501010101",
+      "name": "Maddening Flame",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F893FE900701010101",
+      "name": "Ring of Stolen Souls",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E0E1FCBF0601010101",
+      "name": "Soul Theft Aegis",
+      "color": "#AD48FB"
+    }
+  ]
+}

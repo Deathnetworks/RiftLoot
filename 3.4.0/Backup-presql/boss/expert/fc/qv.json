@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Queen Vallnara",
+  "items": [
+    {
+      "IDKey": "DDC8816F01010101",
+      "name": "Chain of Elemental Darkness",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FAEDB0C80601010101",
+      "name": "Corpse Maker",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F9E68FDA0701010101",
+      "name": "Corrupted Steel Blade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EACB848A0701010101",
+      "name": "Dragon Blood Signet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "94948ED40601010101",
+      "name": "Elemental Iron Chain Hauberk",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BBFDB3CE0101010101",
+      "name": "Grave Digger",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AFB09BD20701010101",
+      "name": "Legplates of Undeath",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8885E2AF0201010101",
+      "name": "Mother's Broken Heart",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DDF5C3B90501010101",
+      "name": "Vallnara's Bite",
+      "color": "#AD48FB"
+    }
+  ]
+}

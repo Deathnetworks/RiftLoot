@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Scarn",
+  "items": [
+    {
+      "IDKey": "94DAC6900101010101",
+      "name": "Aged Dragonhide Cowl",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F583AAC90501010101",
+      "name": "Claw of Wanton Rage",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A3B9CA840201010101",
+      "name": "Corrupted Soul",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C5A5EDC20101010101",
+      "name": "Crimson Runegrips",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A6B4EDAA0601010101",
+      "name": "Draconic Emberblade",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D1A7DC9D0701010101",
+      "name": "Dragon Charmer's Cudgel",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BECAEAB80601010101",
+      "name": "Scarn's Hide",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E2D08FA80401010101",
+      "name": "Staff of Eternal Flame",
+      "color": "#AD48FB"
+    }
+  ]
+}

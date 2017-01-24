@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Ryka Dharvos",
+  "items": [
+    {
+      "IDKey": "F9B3D3D80101010101",
+      "name": "Dharvos's Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F1D9DD800301010101",
+      "name": "Naga Ceremonial Shield",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C2D7A7940701010101",
+      "name": "Naga Engraved Sword",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FFC392D70701010101",
+      "name": "Naga Scale Shoulderguards",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D3FDFEA60101010101",
+      "name": "Ryka Scale Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BDC9A4A30701010101",
+      "name": "Serpent's Slippers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9196A8850401010101",
+      "name": "Serpentiron Chain Shawl",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B8BEE6CA0601010101",
+      "name": "Shimmering Flanged Mace",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E58EAC880601010101",
+      "name": "Snakeskin Gloves",
+      "color": "#267FFA"
+    }
+  ]
+}

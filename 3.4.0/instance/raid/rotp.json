@@ -1,0 +1,20 @@
+{
+    "description": "Select a boss",
+    "name": "Rise of the Phoenix",
+    "items": [
+        {
+            "selector": "raid-rotp-e",
+            "name" : "Ereandorn"
+        },{
+            "selector": "raid-rotp-b",
+            "name" : "Beruhast"
+        },{
+            "selector": "raid-rotp-gs",
+            "name" : "General Silgen"
+        },{
+            "selector": "raid-rotp-hpa",
+            "name" : "High Priest Arakhurn"
+        }
+    ]
+
+}

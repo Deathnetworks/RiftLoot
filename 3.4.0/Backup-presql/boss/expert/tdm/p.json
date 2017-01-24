@@ -1,0 +1,66 @@
+{
+  "description": "Select an item",
+  "name": "Plutonus",
+  "items": [
+    {
+      "IDKey": "D681E4F50101010101",
+      "name": "Archaic Amethyst Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B1DEC8AC0701010101",
+      "name": "Blade of the Architect",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8BE1CFF70501010101",
+      "name": "Chestpiece of the Ancients",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A3B9CA840201010101",
+      "name": "Corrupted Soul",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C4D58E980701010101",
+      "name": "Crest of the Constructs",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ADA994A10601010101",
+      "name": "Deep Iron Signet",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A3C8CDCA0301010101",
+      "name": "Eternal Breastplate",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DA81E4F50101010101",
+      "name": "Gatekeeper's Seal",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "90FAB67901010101",
+      "name": "Recipe: Implacable Steel Helm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EA99E2CA0101010101",
+      "name": "Robes of Arcanist Might",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "84C7D16A01010101",
+      "name": "Timeless Iron Legplates",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B295D3E70401010101",
+      "name": "Titanslayer",
+      "color": "#AD48FB"
+    }
+  ]
+}

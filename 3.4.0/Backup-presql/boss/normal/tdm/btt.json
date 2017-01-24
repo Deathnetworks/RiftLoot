@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Bonehew the Thunderer",
+  "items": [
+    {
+      "IDKey": "B5D19D9D0401010101",
+      "name": "Foreman's Leg Guards",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "CBD95E01010101",
+      "name": "Seismic Blaster",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D4A98BF10701010101",
+      "name": "Shard of the Thunderer",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C496B9B40201010101",
+      "name": "Shockwave Suppression Cap",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DCC88BD40301010101",
+      "name": "Source speckled Gloves",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E7FD9C1A01010101",
+      "name": "Stonecutter's Edge",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FEA0E37001010101",
+      "name": "Supervisor's Breeches",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "99FCE4BA0101010101",
+      "name": "Thunderous Beacon",
+      "color": "#267FFA"
+    }
+  ]
+}

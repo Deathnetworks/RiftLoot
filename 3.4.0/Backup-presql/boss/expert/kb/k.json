@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Konstantin",
+  "items": [
+    {
+      "IDKey": "E1F483D30301010101",
+      "name": "Buried Dead Wand",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ACFBA7A40301010101",
+      "name": "Deep Horror Shoulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B6E5C2CD0601010101",
+      "name": "Lion Tamer",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B3CECB2C01010101",
+      "name": "Malformed Soul",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FBF88D9E0201010101",
+      "name": "Nightmare Pauldrons",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DB99C1AC0201010101",
+      "name": "Oath Keeper",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9AD3D40301010101",
+      "name": "Ravager Mail Shoulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E8AA9E900601010101",
+      "name": "Shade Bane",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A9B09BD20701010101",
+      "name": "Shadehorror Mantle",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EAB1D4D40301010101",
+      "name": "Trousers of the Hunt",
+      "color": "#AD48FB"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Rorf",
+  "items": [
+    {
+      "IDKey": "DF878AF80601010101",
+      "name": "Dragon Soot Leather",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9A948ED40601010101",
+      "name": "Rolf's Greathelm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "92F69BA60701010101",
+      "name": "Scary Fury",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C882BBF20601010101",
+      "name": "Scratched Tassets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B896CC980301010101",
+      "name": "Sneaky Treasure",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "86FF93B10301010101",
+      "name": "Tome of Feline Wisdom",
+      "color": "#267FFA"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "description": "Select an item",
+  "name": "Uruluuk",
+  "items": [
+    {
+      "IDKey": "80EFC9A00601010101",
+      "name": "Ceremonial Shield",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AC88A8E30701010101",
+      "name": "Dirty Earthen Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C79BE4920201010101",
+      "name": "Earthshadow Belt",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8DEC9EFE0701010101",
+      "name": "Earthspike Boots",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A0C8F4BE0301010101",
+      "name": "God King's Scepter",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BB95C78F0601010101",
+      "name": "Goldweave Cord",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F3F1BCBB0401010101",
+      "name": "Guise of the Gilded Path",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "8CEFEE6101010101",
+      "name": "Sacrificial Platinum Blade",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D8F587A80701010101",
+      "name": "Shimmering Necklace of Destruction",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F6F2B9DB0401010101",
+      "name": "Totem of Uruluuk",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AEE4DFFD0601010101",
+      "name": "Trousers of Craving",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E98AA2A70101010101",
+      "name": "Uruluuk's Staff",
+      "color": "#AD48FB"
+    }
+  ]
+}

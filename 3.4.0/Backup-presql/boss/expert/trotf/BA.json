@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Battlemaster Atrophinius",
+  "items": [
+    {
+      "IDKey": "8BE5A3C60301010101",
+      "name": "Battlemaster's Jerkin",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9FCBAFAA0701010101",
+      "name": "Bogling Kickers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "96948ED40601010101",
+      "name": "Fae Gold Belt Buckle",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A683A8CB0601010101",
+      "name": "Helm of Living Grace",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "97A4B5E70201010101",
+      "name": "Mead Makers Sash",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C0FE9AE40101010101",
+      "name": "Mead stained Legplates",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A3D79EF40601010101",
+      "name": "Recipe: Darkcloth Cap",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "9EACF59C0701010101",
+      "name": "Recipe: Heroic Manasurge Vial",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DA8F87C20401010101",
+      "name": "Ring of Cultivation",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9FE9F8DB0401010101",
+      "name": "Squabble Squelcher",
+      "color": "#267FFA"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "description": "Select an item",
+  "name": "Fae Lord Twyl",
+  "items": [
+    {
+      "IDKey": "E8B1D4D40301010101",
+      "name": "Barkskin Helm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B0F9877901010101",
+      "name": "Glade Orb",
+      "color": ""
+    },
+    {
+      "IDKey": "BDD7EDA50101010101",
+      "name": "King's Ambition",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E2F0E9CA0201010101",
+      "name": "King's Method",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BFC7EFDE0101010101",
+      "name": "Maelow's Loaded Dice",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B3CECB2C01010101",
+      "name": "Malformed Soul",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AFA6AC820201010101",
+      "name": "Recipe: Lightsmasher",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E0F483D30301010101",
+      "name": "Twyl's Stalwart Mace",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C4B59FFE0601010101",
+      "name": "Winter's Herald",
+      "color": "#AD48FB"
+    }
+  ]
+}

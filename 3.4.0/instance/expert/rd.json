@@ -1,0 +1,23 @@
+{
+    "description": "Select a boss",
+    "name": "Runic Descent",
+    "items": [
+        {
+            "selector": "expert-rd-r",
+            "name" : "Rictus"
+        },{
+            "selector": "expert-rd-w",
+            "name" : "Wormwood"
+        },{
+            "selector": "expert-rd-wf",
+            "name" : "Warden Falidor"
+        },{
+            "selector": "expert-rd-atf",
+            "name" : "Atrophinius the Fallen"
+        },{
+            "selector": "expert-rd-etc",
+            "name" : "Eliam the Corrupted"
+        }
+    ]
+
+}

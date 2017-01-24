@@ -1,0 +1,86 @@
+{
+  "description": "Select an item",
+  "name": "Caelia the Stormtouched",
+  "items": [
+    {
+      "IDKey": "8A9B8B980601010101",
+      "name": "Bated Breath",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AFCCB1F10101010101",
+      "name": "Caelia's Stormbolt Vestments",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A3B9CA840201010101",
+      "name": "Corrupted Soul",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ACA994A10601010101",
+      "name": "Fire Pearl Ring",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B9AF88CE0201010101",
+      "name": "Galvanized Battleplate",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FEDE8BE60401010101",
+      "name": "Greatstaff of the Cyclone",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F0A38CAF0301010101",
+      "name": "Hauberk of the Great Storm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "86C3EF9F0401010101",
+      "name": "Mantle of Implosion",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B6DBAD6701010101",
+      "name": "Recipe: Blazing Insightful Rune",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A9D79EF40601010101",
+      "name": "Recipe: Conditioned Leather Boots",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8FFAB67901010101",
+      "name": "Recipe: Dark Iron Helm",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A190AF800201010101",
+      "name": "Recipe: Legendary Bottle of Spellstrikes",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DFDD85DA0201010101",
+      "name": "Shockabsorbing Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AEB1BAB20201010101",
+      "name": "Thunderbolt Recurve Bow",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D0A0B8EA0201010101",
+      "name": "Touch of Storms",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C29AE2A40201010101",
+      "name": "Windcaller's Caduceus",
+      "color": "#AD48FB"
+    }
+  ]
+}

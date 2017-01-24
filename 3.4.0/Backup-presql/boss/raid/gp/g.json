@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Guurloth",
+  "items": [
+    {
+      "IDKey": "D299FBDC0401010101",
+      "name": "Boots of the Earth",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "92F3954501010101",
+      "name": "Bulwark of Rapacity",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "99C8D5D00201010101",
+      "name": "Earthen Spaulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BB96E4D20601010101",
+      "name": "Earthshadow Tunic",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FCEF97930601010101",
+      "name": "Gilded Greatbow of the Mountain",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F3A0F81C01010101",
+      "name": "Gilded Maul",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "BDD4E0D30101010101",
+      "name": "Gilded Skull",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F8F5FDEA0401010101",
+      "name": "Mystical Diamond Ring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B880F6870501010101",
+      "name": "Stoneplate Spaulders",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A8A5E9AA0301010101",
+      "name": "Thick Gold Belt",
+      "color": "#AD48FB"
+    }
+  ]
+}

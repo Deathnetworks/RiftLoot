@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Gatekeeper Kaleida",
+  "items": [
+    {
+      "IDKey": "D1BAB2C10401010101",
+      "name": "Diamond Cleaver",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "80DAE4A60201010101",
+      "name": "Golem's Power Core",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B3F6E18C0501010101",
+      "name": "Kalieda's Glimmering Eye",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A2B2D84101010101",
+      "name": "Kalieda's Skull",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "928EF2DE0701010101",
+      "name": "Sapphire Sandles",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "D98DB16E01010101",
+      "name": "Trembling Footpads",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EFE494BC0701010101",
+      "name": "Unbreakable Chain",
+      "color": "#267FFA"
+    }
+  ]
+}

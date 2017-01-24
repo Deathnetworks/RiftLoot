@@ -1,0 +1,41 @@
+{
+  "description": "Select an item",
+  "name": "Coalgut",
+  "items": [
+    {
+      "IDKey": "AEB0DBDF0701010101",
+      "name": "Coalgut's Broken Ribs",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A9DDBB3001010101",
+      "name": "Gauntlets of the Burning Word",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "81F4E2A90101010101",
+      "name": "Legguards of Hypnotic Flames",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D8CFADD00301010101",
+      "name": "Melted Sidearm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "86E18AFE0701010101",
+      "name": "Rage Hardened Legplates",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B9B497FC0701010101",
+      "name": "Sash of Frozen Crystals",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A6A9F2F30101010101",
+      "name": "Tunic of Hypnotic Flames",
+      "color": "#267FFA"
+    }
+  ]
+}

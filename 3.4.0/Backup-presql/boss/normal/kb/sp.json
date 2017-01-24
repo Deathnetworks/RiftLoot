@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Shadehorror Phantasm",
+  "items": [
+    {
+      "IDKey": "FAA5B0EA0501010101",
+      "name": "Blackheart Ripper",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F1BEAA850101010101",
+      "name": "Cursed Umbral Tunic",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "BC9D81A00701010101",
+      "name": "Hauberk of Nightfall",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B1A4EFAC0701010101",
+      "name": "Horrorborne Runemail",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D5C1F93C01010101",
+      "name": "Runeblade of Exiled Lords ",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D1F2EFAD0301010101",
+      "name": "Shadow Encrusted Mace",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "81E199CE0701010101",
+      "name": "Tome of Lords' Folly",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AA9FD2A60601010101",
+      "name": "Woven Gloom Shroud",
+      "color": "#267FFA"
+    }
+  ]
+}

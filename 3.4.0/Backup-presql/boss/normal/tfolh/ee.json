@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Emberlord Ereetu",
+  "items": [
+    {
+      "IDKey": "A4B3DCEF0401010101",
+      "name": "Breastplate of the Inferno",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8494D22A01010101",
+      "name": "Broadsword of the Inferno",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B4B5C8D70201010101",
+      "name": "Burning Ruby Pendant",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D9ABEEFE0401010101",
+      "name": "Emberlord's Flamewand",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E8CC89F00501010101",
+      "name": "Ereetu's Flamebound Spire",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B79DA8CB0501010101",
+      "name": "Fire Emblazoned Chainmail",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D4B7AF2601010101",
+      "name": "Jagged Obsidian Blade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F0DBC98F0201010101",
+      "name": "Molten Lavastone Hammer",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F7B385F50701010101",
+      "name": "Raging Char Tunic",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "CF8199BF0501010101",
+      "name": "Robes of the Wanton",
+      "color": "#267FFA"
+    }
+  ]
+}

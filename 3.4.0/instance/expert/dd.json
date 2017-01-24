@@ -1,0 +1,26 @@
+{
+    "description": "Select a boss",
+    "name": "Darkening Deeps",
+    "items": [
+        {
+            "selector": "expert-dd-ab",
+            "name" : "Alchemist Braxtepel"
+        },{
+            "selector": "expert-dd-mb",
+            "name" : "Michael Bringhurst"
+        },{
+            "selector": "expert-dd-td",
+            "name" : "Tegenar Deepfang"
+        },{
+            "selector": "expert-dd-tgc",
+            "name" : "The Gedlo Council"
+        },{
+            "selector": "expert-dd-g",
+            "name" : "Glubmuk"
+        },{
+            "selector": "expert-dd-s",
+            "name" : "Scarn"
+        }
+    ]
+
+}

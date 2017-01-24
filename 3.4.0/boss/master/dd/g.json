@@ -1,0 +1,31 @@
+{
+  "description": "Select an item",
+  "name": "Glubmuk",
+  "items": [
+    {
+      "IDKey": "D2B79AA70301010101",
+      "name": "Choker of Foul Tricks",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "FECD974201010101",
+      "name": "Defiled Bone Casque",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "ACB9E76101010101",
+      "name": "Defiled Gedlo Faceguard",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "AEC0FFEB0201010101",
+      "name": "Digested Waykeeper's Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "E4B380AD0301010101",
+      "name": "Pungent Moss Gorget",
+      "color": "#AD48FB"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Smouldaron",
+  "items": [
+    {
+      "IDKey": "90C887EA0601010101",
+      "name": "Burning Cord",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "EE99C8F90601010101",
+      "name": "Fire Demon's Soul",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A7E6F7890701010101",
+      "name": "Fireruby Necklace",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D0F69EDB0701010101",
+      "name": "Flamesteel Chain Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8AACC0D30401010101",
+      "name": "Flametouched Helm",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D4B8A1D90201010101",
+      "name": "Flowing Iron Belt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F3AED02401010101",
+      "name": "Lavahandling Gauntlets",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AF869ADD0601010101",
+      "name": "Smoldering Sabatons",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B19CC59C0601010101",
+      "name": "Smouldaron's Blaster",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "86A1ECAD0401010101",
+      "name": "Smouldaron's Iron Shoes",
+      "color": "#267FFA"
+    }
+  ]
+}

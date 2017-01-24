@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Krasimir Barionov",
+  "items": [
+    {
+      "IDKey": "B9D7A7840301010101",
+      "name": "Bone Craft Staff",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "948BB5E00401010101",
+      "name": "Death Knell",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9CCA8E1A01010101",
+      "name": "Flesh Grinder",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "FFA3EDC40301010101",
+      "name": "Royal Chain Bracers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AC8291B70601010101",
+      "name": "Shadow Splitter",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "92B3F5EE0601010101",
+      "name": "Talisman of the Broken Lich",
+      "color": "#267FFA"
+    }
+  ]
+}

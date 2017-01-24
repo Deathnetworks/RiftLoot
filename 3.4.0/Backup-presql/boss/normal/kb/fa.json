@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "Flesheater Autoch",
+  "items": [
+    {
+      "IDKey": "C1CAA7C60501010101",
+      "name": "Bilestained Leggings",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "84A3C5F10401010101",
+      "name": "Choker of Bloodrage",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "AAFFBDA50101010101",
+      "name": "Envenomed Loop",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F4CC80A30301010101",
+      "name": "Scarredflesh Breaches",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "B2C6C85201010101",
+      "name": "Sunscorched Trousers",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "DDABE8DA0601010101",
+      "name": "Vaultforged Greaves",
+      "color": "#267FFA"
+    }
+  ]
+}

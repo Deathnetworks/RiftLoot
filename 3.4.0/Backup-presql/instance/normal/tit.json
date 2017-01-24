@@ -1,0 +1,19 @@
+{
+    "description": "Select a boss",
+    "name": "The Iron Tomb (17-24)",
+    "items": [
+        {
+            "selector": "normal-tit-ca",
+            "name" : "Caor Ashstone"
+        },
+        {
+            "selector": "normal-tit-ttk",
+            "name" : "The Three Kings"
+        },
+        {
+            "selector": "normal-tit-rtd",
+            "name" : "Ragnoth the Despoiler"
+        }
+    ]
+
+}

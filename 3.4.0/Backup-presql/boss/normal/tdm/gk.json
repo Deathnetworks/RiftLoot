@@ -1,0 +1,46 @@
+{
+  "description": "Select an item",
+  "name": "Gregori Krezlav",
+  "items": [
+    {
+      "IDKey": "E386E5870401010101",
+      "name": "Adorned Quickblade",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "A4F5A9970101010101",
+      "name": "Deepstrike Torch",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "8DB1ABFB0601010101",
+      "name": "Gregori's Glimmering Staff",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F4B7C5970101010101",
+      "name": "Gregori's Jeweled Belt",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F8D5F1E50701010101",
+      "name": "Load Bearer's Legplates",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F7DCEADA0601010101",
+      "name": "Shoulders of Glittering Gems",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "D7A7CFDF0301010101",
+      "name": "Soil Sampling Rod",
+      "color": "#0C0"
+    },
+    {
+      "IDKey": "858D95ED0701010101",
+      "name": "Whip worn Boots",
+      "color": "#0C0"
+    }
+  ]
+}

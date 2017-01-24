@@ -1,0 +1,56 @@
+{
+  "description": "Select an item",
+  "name": "Vladmal Prime",
+  "items": [
+    {
+      "IDKey": "E9EA80A30701010101",
+      "name": "Bellow Fire Band",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "989791CA0401010101",
+      "name": "Delver's Beacon",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "97C48A6601010101",
+      "name": "Forge Commander's Insignia",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "F2FB87F10501010101",
+      "name": "Grounding Wire Coil",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "B6C791C10601010101",
+      "name": "Iron Rivet Signet",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "9192F1B30201010101",
+      "name": "Loop of the Ancient Mason",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "C9D5839F0701010101",
+      "name": "Tangled Servo Cable",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "DAA7A3C00701010101",
+      "name": "Unstable Core Spring",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "84DBE9B30301010101",
+      "name": "Vladmal's Engine Casing",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "EEAFE9EC0701010101",
+      "name": "Vladmal's Sensory Core",
+      "color": "#AD48FB"
+    }
+  ]
+}

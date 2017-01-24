@@ -1,0 +1,36 @@
+{
+  "description": "Select an item",
+  "name": "The Three Kings",
+  "items": [
+    {
+      "IDKey": "AAB09BD20701010101",
+      "name": "Ageless Iron Breastplate",
+      "color": "#AD48FB"
+    },
+    {
+      "IDKey": "A999F4860601010101",
+      "name": "Alluring Shoulderpads",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "ADD8D9DD0301010101",
+      "name": "Riftwalkers Mask",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "C3CBA5E70201010101",
+      "name": "Shatterskull Hammer",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "E0F2F8FC0401010101",
+      "name": "Soulflare Shield",
+      "color": "#267FFA"
+    },
+    {
+      "IDKey": "F9EEEAE60201010101",
+      "name": "Timebender's Heirloom",
+      "color": "#267FFA"
+    }
+  ]
+}

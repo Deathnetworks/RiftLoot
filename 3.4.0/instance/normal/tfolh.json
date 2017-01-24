@@ -1,0 +1,17 @@
+{
+    "description": "Select a boss",
+    "name": "The Fall of Lantern Hook (42-47)",
+    "items": [
+        {
+            "selector": "normal-tfolh-r",
+            "name" : "Rorf"
+        },{
+            "selector": "normal-tfolh-pc",
+            "name" : "Pyromaster Cortilnald"
+        },{
+            "selector": "normal-tfolh-ee",
+            "name" : "Emberlord Ereetu"
+        }
+    ]
+
+}
